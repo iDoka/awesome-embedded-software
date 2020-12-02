@@ -57,6 +57,7 @@ Under construct
 
 * [lvgl](https://github.com/lvgl/lvgl) - Powerful and easy-to-use embedded GUI with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash)
 * [EasyGUI](https://github.com/MaJerle/EasyGUI) - EasyGUI for embedded systems (highly optimized for STM32)
+* [TouchGFX](https://www.touchgfx.com/product/overview/) - a user-friendly graphical C++ tool integrated as a free tool in the STM32 ecosystem
 * [eGUI](https://github.com/NXPmicro/eGUI) - eGUI embedded graphic library
 * [Embedded-graphics](https://github.com/embedded-graphics/embedded-graphics) - a 2D graphics library that is focused on memory constrained embedded devices
 
