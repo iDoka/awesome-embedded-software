@@ -92,6 +92,8 @@ Under construct
 ### Compression
 
 * [heatshrink](https://github.com/atomicobject/heatshrink) - data compression library for embedded/real-time systems
+* [shoco](https://github.com/Ed-von-Schleck/shoco) - a C library to compress and decompress short strings. It is very fast and easy to use. The default compression model is optimized for english words, but you can generate your own compression model
+
 
 ### DSP and Filtering
 
@@ -177,7 +179,7 @@ Under construct
 
 * [FreeRTOS]() -
 * [Apache NuttX]() -
-* []() -
+* [scmRTOS](https://github.com/scmrtos/scmrtos) -  tiny Real-Time Preemptive Operating System intended for use with Single-Chip Microcontrollers. scmRTOS is capable to run on tiny uCs with as small amount of RAM as 512 bytes. The RTOS is written on C++ and supports various platforms.
 
 ## Uncategorized
 
