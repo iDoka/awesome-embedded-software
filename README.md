@@ -46,7 +46,7 @@ Under construct
 ## HW
 
 * [embedded-driver](https://github.com/InfiniteYuan/embedded-driver-library) - Embedded driver library for various peripheral
-* []() -
+* [tinyusb](https://github.com/hathach/tinyusb) - cross-platform USB stack for embedded system
 * []() -
 
 
@@ -177,9 +177,11 @@ Under construct
 
 ## RTOS
 
-* [FreeRTOS]() -
+* [FreeRTOS](https://github.com/FreeRTOS/FreeRTOS)
+* [Zephyr](https://github.com/zephyrproject-rtos/zephyr) -  a new generation, scalable, optimized, secure RTOS for multiple hardware architectures
 * [Apache NuttX]() -
 * [scmRTOS](https://github.com/scmrtos/scmrtos) -  tiny Real-Time Preemptive Operating System intended for use with Single-Chip Microcontrollers. scmRTOS is capable to run on tiny uCs with as small amount of RAM as 512 bytes. The RTOS is written on C++ and supports various platforms.
+* [ChibiOS]() -
 
 ## Uncategorized
 
