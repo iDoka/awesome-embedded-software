@@ -41,7 +41,9 @@ Under construct
 * [embedded-log](https://github.com/to9/embedded-log) - a small and beautiful embedded log library for mcu
 
 
+## Snippets
 
+* [Collection of miscellaneous portable C snippets](https://github.com/nemequ/portable-snippets)
 
 ## HW
 
@@ -63,7 +65,7 @@ Under construct
 ### RF
 
 * [RadioHead](https://github.com/hallard/RadioHead) - Packet Radio library for embedded microprocessors
-* []() -
+* [Adafruit's RadioHead](https://github.com/adafruit/RadioHead) - Packet Radio library for embedded microprocessors with [docs](http://www.airspayce.com/mikem/arduino/RadioHead/)
 * []() -
 
 ### MQTT
@@ -88,6 +90,7 @@ Under construct
 * [LibHydrogen](https://github.com/jedisct1/libhydrogen) - a lightweight, secure, easy-to-use crypto library suitable for constrained environments
 * [krypton](https://github.com/ezhangle/krypton) - Embedded TLS/DTLS library, source and binary compatible OpenSSL subset
 * [wolfTPM](https://github.com/wolfSSL/wolfTPM) - a highly portable TPM 2.0 library, designed for embedded use
+* [mbedTLS]()
 
 ### Compression
 
@@ -148,7 +151,7 @@ Under construct
 
 * [lwext4](https://github.com/gkostka/lwext4) - ext2/ext3/ext4 filesystem library for microcontrollers
 * [FatFS]() -
-* []() -
+* [LevelX](https://github.com/azure-rtos/levelx) - Provides Flash Wear Leveling for FileX and Stand Alone purposes
 
 ## GUI
 
@@ -167,7 +170,7 @@ Under construct
 * [AFGUI](https://github.com/AndreyFursov/AFGUI) - Embedded GUI Library
 * [MakiseGUI](https://github.com/SL-RU/MakiseGUI) - Graphics and GUI library for embed systems
 * [emGUI](https://github.com/libEmGUI/emGUI) - Simple C UI Library for embedded platforms
-* []() -
+* [micromenu-v2](https://github.com/abcminiuser/micromenu-v2) - Tiny text-orientated menu library in C for embedded use
 * []() -
 
 
@@ -182,6 +185,8 @@ Under construct
 * [Apache NuttX]() -
 * [scmRTOS](https://github.com/scmrtos/scmrtos) -  tiny Real-Time Preemptive Operating System intended for use with Single-Chip Microcontrollers. scmRTOS is capable to run on tiny uCs with as small amount of RAM as 512 bytes. The RTOS is written on C++ and supports various platforms.
 * [ChibiOS]() -
+* [Azure RTOS ThreadX](https://github.com/azure-rtos/threadx) - is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications
+* [eCos]() -
 
 ## Uncategorized
 
