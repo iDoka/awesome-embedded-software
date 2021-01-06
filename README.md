@@ -150,7 +150,7 @@ Under construct
 ## Filesystem
 
 * [lwext4](https://github.com/gkostka/lwext4) - ext2/ext3/ext4 filesystem library for microcontrollers
-* [FatFS]() -
+* [FatFS](http://elm-chan.org/fsw/ff/00index_e.html) - FAT filesystem implementation
 * [LevelX](https://github.com/azure-rtos/levelx) - Provides Flash Wear Leveling for FileX and Stand Alone purposes
 
 ## GUI
@@ -187,6 +187,8 @@ Under construct
 * [ChibiOS]() -
 * [Azure RTOS ThreadX](https://github.com/azure-rtos/threadx) - is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications
 * [eCos]() -
+* [embox](https://github.com/embox/embox) - a configurable RTOS designed for resource constrained and embedded systems. Embox main idea is using Linux software without Linux.
+
 
 ## Uncategorized
 
