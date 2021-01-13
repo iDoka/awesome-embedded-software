@@ -23,12 +23,6 @@ Under construct
 * [LwESP](https://github.com/MaJerle/lwesp) - lightweight ESP AT commands parser library to communicate with ESP8266 or ESP32 Wi-Fi module using AT commands
 * [LwGSM](https://github.com/MaJerle/lwgsm) - Library for SIMCOM GSM modules to communicate with AT commands and RTOS from host device
 
-* [LwRB](https://github.com/MaJerle/lwrb) - Lightweight generic ring buffer manager library
-* [RingBuffer](https://github.com/wizard97/ArduinoRingBuffer) - Simple Interrupt Safe Ring (Circular) Buffer Queuing Library for Embedded platforms
-
-* [lwprintf](https://github.com/MaJerle/lwprintf) - Lightweight printf library optimized for embedded systems
-* [Embedded_Printf](https://github.com/agaelema/Embedded_Printf) - Embedded version of the famous "printf( )" function. The idea is create an simple and efficient library to meet some common needs in embedded systems
-* [tinyprintf](https://github.com/cjlano/tinyprintf) - tiny printf and sprintf library for small embedded systems
 
 
 * [lwpkt](https://github.com/MaJerle/lwpkt) - Lightweight packet protocol structure for multi-device communication focused on RS-485
@@ -39,6 +33,34 @@ Under construct
 * [lwmem](https://github.com/MaJerle/lwmem) - Lightweight dynamic memory manager library for embedded systems with memory constraints. It implements malloc, calloc, realloc and free functions
 
 * [embedded-log](https://github.com/to9/embedded-log) - a small and beautiful embedded log library for mcu
+
+
+### Ring Buffer
+
+* [LwRB](https://github.com/MaJerle/lwrb) - Lightweight generic ring buffer manager library
+* [RingBuffer](https://github.com/wizard97/ArduinoRingBuffer) - Simple Interrupt Safe Ring (Circular) Buffer Queuing Library for Embedded platforms
+
+### printf
+
+* [lwprintf](https://github.com/MaJerle/lwprintf) - Lightweight printf library optimized for embedded systems
+* [Embedded_Printf](https://github.com/agaelema/Embedded_Printf) - Embedded version of the famous "printf( )" function. The idea is create an simple and efficient library to meet some common needs in embedded systems
+* [tinyprintf](https://github.com/cjlano/tinyprintf) - tiny printf and sprintf library for small embedded systems
+
+### AT command parser
+
+* [atat](https://github.com/esynr3z/atat) - Lib for AT-like custom commands processing
+
+
+### Thread management
+
+* [C-Thread-Pool](https://github.com/Pithikos/C-Thread-Pool) - minimal but powerful thread pool in ANSI C
+
+
+
+
+
+
+
 
 
 ## Snippets
