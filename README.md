@@ -144,6 +144,13 @@ Under construct
 * [liquid-dsp](https://github.com/jgaeddert/liquid-dsp) - digital signal processing library for software-defined radios
 * []() -
 
+
+### Random Number Generation
+
+* [pcg-c-basic](https://github.com/imneme/pcg-c-basic) - code provides a minimal implementation of one member of the PCG family of random number generators, which are fast, statistically excellent, and offer a number of useful features
+* [pcg-c](https://github.com/imneme/pcg-c) -  code provides an implementation of the PCG family of random number generators, which are fast, statistically excellent, and offer a number of useful features
+
+
 ### Cryptography
 
 * [wolfSSH](https://www.wolfssl.com/products/wolfssh/) - a lightweight SSHv2 client and server library written in ANSI C and targeted for embedded, RTOS, and resource-constrained environments - primarily because of its small size, speed, and feature set
