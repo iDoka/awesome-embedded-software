@@ -18,19 +18,36 @@ Under construct
 * [ETLCPP](https://github.com/ETLCPP/etl) - Embedded Template Library where the user can declare the size, or maximum size of any object upfront
 * [eFLL](https://github.com/zerokol/eFLL) - Embedded Fuzzy Logic Library is a standard library for Embedded Systems
 
+### Protocol Parsers
 
 * [LwGPS](https://github.com/MaJerle/lwgps) - Lightweight GPS NMEA parser for embedded systems
 * [LwESP](https://github.com/MaJerle/lwesp) - lightweight ESP AT commands parser library to communicate with ESP8266 or ESP32 Wi-Fi module using AT commands
 * [LwGSM](https://github.com/MaJerle/lwgsm) - Library for SIMCOM GSM modules to communicate with AT commands and RTOS from host device
+* [GSM_Engine](https://github.com/MikroElektronika/GSM_Engine) - Generic AT parser for AT command based modules
+
+#### AT command parser
+
+* [atat](https://github.com/esynr3z/atat) - Lib for AT-like custom commands processing
+* [cAT](https://github.com/marcinbor85/cAT) - Plain C library for parsing AT commands for use in host devices
+* [gzat](https://github.com/gzhouct/gzat) - Portable AT command parsing library in C++ language
+* [ATParser](https://github.com/ARMmbed/ATParser) - An mbed-os compatible AT command parser
+* [atcommander](https://github.com/malachi-iot/atcommander) - Portable C++ library for sending AT commands and parsing their responses
 
 
+#### Various protocols
 
 * [lwpkt](https://github.com/MaJerle/lwpkt) - Lightweight packet protocol structure for multi-device communication focused on RS-485
 * [lwow](https://github.com/MaJerle/lwow) - Lightweight onewire protocol library optimized for UART hardware on embedded systems
 * []() -
 
+
+### Memory
+
 * [libmemory](https://github.com/embeddedartistry/libmemory) - memory management library with implementations for malloc(), free(), and other useful memory management functions
 * [lwmem](https://github.com/MaJerle/lwmem) - Lightweight dynamic memory manager library for embedded systems with memory constraints. It implements malloc, calloc, realloc and free functions
+
+
+### Logging
 
 * [embedded-log](https://github.com/to9/embedded-log) - a small and beautiful embedded log library for mcu
 
@@ -46,9 +63,24 @@ Under construct
 * [Embedded_Printf](https://github.com/agaelema/Embedded_Printf) - Embedded version of the famous "printf( )" function. The idea is create an simple and efficient library to meet some common needs in embedded systems
 * [tinyprintf](https://github.com/cjlano/tinyprintf) - tiny printf and sprintf library for small embedded systems
 
-### AT command parser
 
-* [atat](https://github.com/esynr3z/atat) - Lib for AT-like custom commands processing
+### CLI
+
+* [cli](https://github.com/letgo0007/cli) - a CLI (Command Line Interface) example build in pure C. Designed for MCU, support block/non-block mode input
+* [terminal](https://github.com/JingoC/terminal) - a Command Line Interface for microcontrollers. Flexible terminal settings allow you to integrate it with any microcontroller, without much effort
+* []() -
+* []() -
+* []() -
+* []() -
+* []() -
+* []() -
+
+### Menu
+
+* [ProMenu](https://github.com/marcinbor85/ProMenu) - Advanced Generic Application Menu Library. ProMenu Library is used for fast implementing advanced user menus. It supports nesting, numeric settings, text settings, boolean values and events. Library is implemented in C++ with build-in Arduino port, but it is easy to port to different architecture.
+* []() -
+* []() -
+* []() -
 
 
 ### Thread management
@@ -56,6 +88,12 @@ Under construct
 * [C-Thread-Pool](https://github.com/Pithikos/C-Thread-Pool) - minimal but powerful thread pool in ANSI C
 
 
+### IO
+
+* [FastIO](https://github.com/xillion/FastIO) - Fast GPIO forked from http://os.mbed.com/users/Sissors/code/FastIO/
+* []() -
+* []() -
+* []() -
 
 
 
@@ -174,6 +212,8 @@ Under construct
 * [lwext4](https://github.com/gkostka/lwext4) - ext2/ext3/ext4 filesystem library for microcontrollers
 * [FatFS](http://elm-chan.org/fsw/ff/00index_e.html) - FAT filesystem implementation
 * [LevelX](https://github.com/azure-rtos/levelx) - Provides Flash Wear Leveling for FileX and Stand Alone purposes
+* [ufat](https://github.com/dlbeer/ufat) - Low-memory feature-complete VFAT implementation
+* []() -
 
 ## GUI
 
@@ -209,7 +249,10 @@ Under construct
 * [ChibiOS]() -
 * [Azure RTOS ThreadX](https://github.com/azure-rtos/threadx) - is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications
 * [eCos]() -
-* [embox](https://github.com/embox/embox) - a configurable RTOS designed for resource constrained and embedded systems. Embox main idea is using Linux software without Linux.
+* [embox](https://github.com/embox/embox) - a configurable RTOS designed for resource constrained and embedded systems. Embox main idea is using Linux software without Linux
+* [RIOT](https://github.com/RIOT-OS/RIOT) - a real-time multi-threading operating system that supports a range of devices that are typically found in the Internet of Things (IoT): 8-bit, 16-bit and 32-bit microcontrollers. RIOT is based on the following design principles: energy-efficiency, real-time capabilities, small memory footprint, modularity, and uniform API access, independent of the underlying hardware (this API offers partial POSIX compliance).
+* [Arm Mbed OS](https://github.com/ARMmbed/mbed-os) - a platform operating system designed for the Internet of Things. It includes all the features you need to develop a connected product based on an Arm Cortex-M microcontroller, including security, connectivity, an RTOS and drivers for sensors and I/O devices.
+
 
 
 ## Uncategorized
@@ -220,7 +263,7 @@ Under construct
 * [tslib](https://github.com/libts/tslib) - Touchscreen access library
 * [wiselib](https://github.com/ibr-alg/wiselib) - generic algorithms library for heterogeneous, distributed, embedded systems
 * [Apache NuttX Apps](https://github.com/apache/incubator-nuttx-apps) - a collection of tools, shells, network utilities, libraries, interpreters and can be used with the NuttX RTOS
-* []() -
+* [util.embedded](https://github.com/malachib/util.embedded) - Useful support code for embedded development
 * []() -
 * []() -
 * []() -
