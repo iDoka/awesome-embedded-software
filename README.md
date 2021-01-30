@@ -233,6 +233,7 @@ Under construct
 * [ESLowGraphics](https://github.com/errorcalc/ESLowGraphicsLibrary) - Low level software graphics library by ErrorSoft (ESLGL)
 * [ftk](https://github.com/prife/ftk) -  gui library for embedded system
 * [u8glib](https://github.com/pabigot/u8glib) - Universal Graphics Library for 8 Bit Embedded Systems
+* [u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
 * [SGFX](https://github.com/rprata/sgfx) - a lightweight embedded library for displays and touchscreens providing everything required to build a fully featured embedded GUI
 * [GUIX](https://github.com/azure-rtos/guix) - provides a complete, embedded graphical user interface (GUI) library and design environment, facilitating the creation and maintenance of all graphical elements needed by your device
 * [GUILib](https://github.com/Nikolay-Kha/GUILib) - GUI library for embedded systems
