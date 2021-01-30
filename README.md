@@ -220,7 +220,8 @@ Under construct
 * [FatFS](http://elm-chan.org/fsw/ff/00index_e.html) - FAT filesystem implementation
 * [LevelX](https://github.com/azure-rtos/levelx) - Provides Flash Wear Leveling for FileX and Stand Alone purposes
 * [ufat](https://github.com/dlbeer/ufat) - Low-memory feature-complete VFAT implementation
-* []() -
+* [fat_io_lib](https://github.com/ultraembedded/fat_io_lib) - Small footprint, low dependency, C code implementation of a FAT16 & FAT32 driver
+
 
 ## GUI
 
