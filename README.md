@@ -221,6 +221,8 @@ Under construct
 * [LevelX](https://github.com/azure-rtos/levelx) - Provides Flash Wear Leveling for FileX and Stand Alone purposes
 * [ufat](https://github.com/dlbeer/ufat) - Low-memory feature-complete VFAT implementation
 * [fat_io_lib](https://github.com/ultraembedded/fat_io_lib) - Small footprint, low dependency, C code implementation of a FAT16 & FAT32 driver
+* [SdFat](https://github.com/greiman/SdFat) - Arduino FAT16/FAT32 exFAT Library
+
 
 
 ## GUI
@@ -233,7 +235,7 @@ Under construct
 * [ESLowGraphics](https://github.com/errorcalc/ESLowGraphicsLibrary) - Low level software graphics library by ErrorSoft (ESLGL)
 * [ftk](https://github.com/prife/ftk) -  gui library for embedded system
 * [u8glib](https://github.com/pabigot/u8glib) - Universal Graphics Library for 8 Bit Embedded Systems
-* [u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
+* [**u8g2**](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
 * [SGFX](https://github.com/rprata/sgfx) - a lightweight embedded library for displays and touchscreens providing everything required to build a fully featured embedded GUI
 * [GUIX](https://github.com/azure-rtos/guix) - provides a complete, embedded graphical user interface (GUI) library and design environment, facilitating the creation and maintenance of all graphical elements needed by your device
 * [GUILib](https://github.com/Nikolay-Kha/GUILib) - GUI library for embedded systems
@@ -261,7 +263,7 @@ Under construct
 * [embox](https://github.com/embox/embox) - a configurable RTOS designed for resource constrained and embedded systems. Embox main idea is using Linux software without Linux
 * [RIOT](https://github.com/RIOT-OS/RIOT) - a real-time multi-threading operating system that supports a range of devices that are typically found in the Internet of Things (IoT): 8-bit, 16-bit and 32-bit microcontrollers. RIOT is based on the following design principles: energy-efficiency, real-time capabilities, small memory footprint, modularity, and uniform API access, independent of the underlying hardware (this API offers partial POSIX compliance).
 * [Arm Mbed OS](https://github.com/ARMmbed/mbed-os) - a platform operating system designed for the Internet of Things. It includes all the features you need to develop a connected product based on an Arm Cortex-M microcontroller, including security, connectivity, an RTOS and drivers for sensors and I/O devices.
-
+* [RT-Thread](https://github.com/RT-Thread/rt-thread) - RT-Thread was born in 2006, it is an open source, neutral, and community-based real-time operating system (RTOS). RT-Thread has Standard version and Nano version. For resource-constrained microcontroller (MCU) systems, the NANO kernel version that requires only 3KB Flash and 1.2KB RAM memory resources can be tailored with easy-to-use tools; And for resource-rich IoT devices, RT-Thread can use the on-line software package management tool, together with system configuration tools, to achieve intuitive and rapid modular cutting, seamlessly import rich software packages, thus achieving complex functions like Android's graphical interface and touch sliding effects, smart voice interaction effects, and so on.
 
 
 ## Uncategorized
