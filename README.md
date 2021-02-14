@@ -222,7 +222,7 @@ Under construct
 * [ufat](https://github.com/dlbeer/ufat) - Low-memory feature-complete VFAT implementation
 * [fat_io_lib](https://github.com/ultraembedded/fat_io_lib) - Small footprint, low dependency, C code implementation of a FAT16 & FAT32 driver
 * [SdFat](https://github.com/greiman/SdFat) - Arduino FAT16/FAT32 exFAT Library
-
+* [fat32](https://github.com/strawberryhacker/fat32) - a lighweight FAT32 file system written in C with no thirdparty dependencies. It requires a small port which provide functions for initializing, reading and writing to the MSD
 
 
 ## GUI
@@ -264,6 +264,17 @@ Under construct
 * [RIOT](https://github.com/RIOT-OS/RIOT) - a real-time multi-threading operating system that supports a range of devices that are typically found in the Internet of Things (IoT): 8-bit, 16-bit and 32-bit microcontrollers. RIOT is based on the following design principles: energy-efficiency, real-time capabilities, small memory footprint, modularity, and uniform API access, independent of the underlying hardware (this API offers partial POSIX compliance).
 * [Arm Mbed OS](https://github.com/ARMmbed/mbed-os) - a platform operating system designed for the Internet of Things. It includes all the features you need to develop a connected product based on an Arm Cortex-M microcontroller, including security, connectivity, an RTOS and drivers for sensors and I/O devices.
 * [RT-Thread](https://github.com/RT-Thread/rt-thread) - RT-Thread was born in 2006, it is an open source, neutral, and community-based real-time operating system (RTOS). RT-Thread has Standard version and Nano version. For resource-constrained microcontroller (MCU) systems, the NANO kernel version that requires only 3KB Flash and 1.2KB RAM memory resources can be tailored with easy-to-use tools; And for resource-rich IoT devices, RT-Thread can use the on-line software package management tool, together with system configuration tools, to achieve intuitive and rapid modular cutting, seamlessly import rich software packages, thus achieving complex functions like Android's graphical interface and touch sliding effects, smart voice interaction effects, and so on.
+
+
+
+## OS
+
+* [citrus](https://github.com/strawberryhacker/citrus) - Bare metal ARM® Cortex®-A5 operating system
+* [vanilla](https://github.com/strawberryhacker/vanilla) - Bare metal ARM® Cortex®-M7 operating system
+* [**chaos**](https://github.com/strawberryhacker/chaos) - Bare metal multicore ARM® Cortex®-A operating system based on a microkernel architecture
+
+
+
 
 
 ## Uncategorized
