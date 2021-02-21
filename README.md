@@ -96,6 +96,11 @@ Under construct
 * []() -
 
 
+### Buffers
+
+
+* [EmbeddedProto](https://github.com/Embedded-AMS/EmbeddedProto) -  a C++ Protocol Buffers implementation specifically suitable for ARM Cortex-M microcontrollers. It is small, reliable and easy to use
+* [protobuf-embedded-c](https://github.com/berezovskyi/protobuf-embedded-c) - a protocol buffers generator for resource constrained embedded applications written in the C programming language
 
 
 
@@ -244,12 +249,19 @@ Under construct
 * [MakiseGUI](https://github.com/SL-RU/MakiseGUI) - Graphics and GUI library for embed systems
 * [emGUI](https://github.com/libEmGUI/emGUI) - Simple C UI Library for embedded platforms
 * [micromenu-v2](https://github.com/abcminiuser/micromenu-v2) - Tiny text-orientated menu library in C for embedded use
-* []() -
 
 
+### GUI editors
 
 * [lv_gui_designer](https://github.com/kaiakz/lv_gui_designer) - a drag-and-drop, simple GUI designer built with LittlevGL
 * [walv](https://github.com/kaiakz/walv) - Online, WYSIWYG GUI designer for LittlevGL. Cross-platform supported(Even Android and IOS)
+
+### Font utils
+
+* [bitmap-OSD-font](https://github.com/frisnit/bitmap-OSD-font) - A 'C' bitmap font for on screen display
+
+
+
 
 ## RTOS
 
