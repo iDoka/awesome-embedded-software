@@ -286,6 +286,12 @@ Under construct
 * [**chaos**](https://github.com/strawberryhacker/chaos) - Bare metal multicore ARM® Cortex®-A operating system based on a microkernel architecture
 
 
+## Hardware
+
+### USB
+
+* [tinyusb](https://github.com/hathach/tinyusb) - open source cross-platform USB stack for embedded system
+
 
 
 
