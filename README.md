@@ -158,11 +158,13 @@ Under construct
 
 ### Cryptography
 
+* [trussed](https://github.com/trussed-dev/trussed) - a minimal, modular way to write cryptographic applications on microcontroller platforms
 * [wolfSSH](https://www.wolfssl.com/products/wolfssh/) - a lightweight SSHv2 client and server library written in ANSI C and targeted for embedded, RTOS, and resource-constrained environments - primarily because of its small size, speed, and feature set
 * [LibHydrogen](https://github.com/jedisct1/libhydrogen) - a lightweight, secure, easy-to-use crypto library suitable for constrained environments
 * [krypton](https://github.com/ezhangle/krypton) - Embedded TLS/DTLS library, source and binary compatible OpenSSL subset
 * [wolfTPM](https://github.com/wolfSSL/wolfTPM) - a highly portable TPM 2.0 library, designed for embedded use
 * [mbedTLS]()
+
 
 ### Compression
 
