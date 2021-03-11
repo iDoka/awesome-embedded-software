@@ -158,7 +158,7 @@ Under construct
 
 ### Cryptography
 
-* [trussed](https://github.com/trussed-dev/trussed) - a minimal, modular way to write cryptographic applications on microcontroller platforms
+* [trussed](https://github.com/trussed-dev/trussed) - a minimal, modular way to write cryptographic applications on microcontroller platforms (Rust)
 * [wolfSSH](https://www.wolfssl.com/products/wolfssh/) - a lightweight SSHv2 client and server library written in ANSI C and targeted for embedded, RTOS, and resource-constrained environments - primarily because of its small size, speed, and feature set
 * [LibHydrogen](https://github.com/jedisct1/libhydrogen) - a lightweight, secure, easy-to-use crypto library suitable for constrained environments
 * [krypton](https://github.com/ezhangle/krypton) - Embedded TLS/DTLS library, source and binary compatible OpenSSL subset
@@ -293,7 +293,7 @@ Under construct
 ### USB
 
 * [tinyusb](https://github.com/hathach/tinyusb) - open source cross-platform USB stack for embedded system
-
+* [libusb_stm32](https://github.com/dmitrystu/libusb_stm32) - Lightweight USB device Stack for STM32 microcontrollers
 
 
 
