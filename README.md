@@ -258,10 +258,15 @@ Under construct
 * [lv_gui_designer](https://github.com/kaiakz/lv_gui_designer) - a drag-and-drop, simple GUI designer built with LittlevGL
 * [walv](https://github.com/kaiakz/walv) - Online, WYSIWYG GUI designer for LittlevGL. Cross-platform supported(Even Android and IOS)
 
+
 ### Font utils
 
 * [bitmap-OSD-font](https://github.com/frisnit/bitmap-OSD-font) - A 'C' bitmap font for on screen display
 
+
+### Picture manupulation tools
+
+* [lcd-image-converter](https://github.com/riuson/lcd-image-converter) - Tool to create bitmaps and fonts for embedded applications; allows you to create bitmaps and fonts, and transform them to "C" source format for embedded applications
 
 
 
