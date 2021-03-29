@@ -45,17 +45,25 @@ Under construct
 
 * [libmemory](https://github.com/embeddedartistry/libmemory) - memory management library with implementations for malloc(), free(), and other useful memory management functions
 * [lwmem](https://github.com/MaJerle/lwmem) - Lightweight dynamic memory manager library for embedded systems with memory constraints. It implements malloc, calloc, realloc and free functions
+* [EasyFlash](https://github.com/armink/EasyFlash#1-introduction) - lightweight embedded flash memory library
 
 
 ### Logging
 
 * [embedded-log](https://github.com/to9/embedded-log) - a small and beautiful embedded log library for mcu
+* [EasyLogger](https://github.com/armink/EasyLogger) - An ultra-lightweight (ROM<1.6K, RAM<0.3k), high-performance C/C++ log library
+
+
+### Data Bases
+
+* [FlashDB](https://github.com/armink/FlashDB) - ultra-lightweight database that supports key-value and time series data
 
 
 ### Ring Buffer
 
 * [LwRB](https://github.com/MaJerle/lwrb) - Lightweight generic ring buffer manager library
 * [RingBuffer](https://github.com/wizard97/ArduinoRingBuffer) - Simple Interrupt Safe Ring (Circular) Buffer Queuing Library for Embedded platforms
+
 
 ### printf
 
@@ -301,6 +309,9 @@ Under construct
 * [tinyusb](https://github.com/hathach/tinyusb) - open source cross-platform USB stack for embedded system
 * [libusb_stm32](https://github.com/dmitrystu/libusb_stm32) - Lightweight USB device Stack for STM32 microcontrollers
 
+### Flash
+
+* [SFUD](https://github.com/armink/SFUD) - Serial Flash Universal Driver (using JEDEC's SFDP standard serial (SPI) flash universal driver library)
 
 
 ## Uncategorized
