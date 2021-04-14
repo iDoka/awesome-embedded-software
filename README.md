@@ -76,7 +76,7 @@ Under construct
 
 * [cli](https://github.com/letgo0007/cli) - a CLI (Command Line Interface) example build in pure C. Designed for MCU, support block/non-block mode input
 * [terminal](https://github.com/JingoC/terminal) - a Command Line Interface for microcontrollers. Flexible terminal settings allow you to integrate it with any microcontroller, without much effort
-* []() -
+* [SerialMenu](https://github.com/sonyhome/SerialMenu) - Arduino library to easily create menus on the serial console
 * []() -
 * []() -
 * []() -
@@ -122,7 +122,7 @@ Under construct
 
 * [embedded-driver](https://github.com/InfiniteYuan/embedded-driver-library) - Embedded driver library for various peripheral
 * [tinyusb](https://github.com/hathach/tinyusb) - cross-platform USB stack for embedded system
-* []() -
+* [FlashAlgo](https://github.com/pyocd/FlashAlgo) - Framework for building Arm Cortex-M "FLM" style flash programming algorithms
 
 
 
@@ -239,6 +239,12 @@ Under construct
 * [SdFat](https://github.com/greiman/SdFat) - Arduino FAT16/FAT32 exFAT Library
 * [fat32](https://github.com/strawberryhacker/fat32) - a lighweight FAT32 file system written in C with no thirdparty dependencies. It requires a small port which provide functions for initializing, reading and writing to the MSD
 
+
+
+## Firmware updates
+
+
+* [SWupdate](https://github.com/sbabic/swupdate) - Software Update for Embedded Linux Devices to update system in field. SWUpdate supports local and OTA updates, multiple update strategies and it is designed with security in mind.
 
 ## GUI
 
