@@ -217,8 +217,9 @@ Under construct
 * [uIP](https://github.com/adamdunkels/uip) - is a very small implementation of the TCP/IP stack that is written by Adam Dunkels
 * [LwIP](http://savannah.nongnu.org/projects/lwip/) - a small independent implementation of the TCP/IP protocol suite that has been initially developed by Adam Dunkels. lwIP suitable for use in embedded systems with tens of kilobytes of free RAM and room for around 40 kilobytes of code ROM.
 * [HttpClient](https://github.com/nmattisson/HttpClient) - Http Client Library
+* [httpio](https://github.com/fetisov/httpio) - Stand-Alone Cross Platform request parser and response generator for the HTTP protocol
 * []() -
-* []() -
+
 
 ### web-server
 
@@ -238,6 +239,7 @@ Under construct
 * [fat_io_lib](https://github.com/ultraembedded/fat_io_lib) - Small footprint, low dependency, C code implementation of a FAT16 & FAT32 driver
 * [SdFat](https://github.com/greiman/SdFat) - Arduino FAT16/FAT32 exFAT Library
 * [fat32](https://github.com/strawberryhacker/fat32) - a lighweight FAT32 file system written in C with no thirdparty dependencies. It requires a small port which provide functions for initializing, reading and writing to the MSD
+* [emfat](https://github.com/fetisov/emfat) - fat32 emulation library for stm32f4
 
 
 
@@ -276,6 +278,7 @@ Under construct
 ### Font utils
 
 * [bitmap-OSD-font](https://github.com/frisnit/bitmap-OSD-font) - A 'C' bitmap font for on screen display
+* [ttf2mesh](https://github.com/fetisov/ttf2mesh) -  library for TrueType font tessellation. Allows to convert font glyphs to mesh objects without rasterization
 
 
 ### Picture manupulation tools
