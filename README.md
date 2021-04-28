@@ -24,6 +24,7 @@ Under construct
 * [LwESP](https://github.com/MaJerle/lwesp) - lightweight ESP AT commands parser library to communicate with ESP8266 or ESP32 Wi-Fi module using AT commands
 * [LwGSM](https://github.com/MaJerle/lwgsm) - Library for SIMCOM GSM modules to communicate with AT commands and RTOS from host device
 * [GSM_Engine](https://github.com/MikroElektronika/GSM_Engine) - Generic AT parser for AT command based modules
+* [TinyGSM](https://github.com/vshymanskyy/TinyGSM) - small Arduino library for GSM modules, that just works
 
 #### AT command parser
 
@@ -219,6 +220,11 @@ Under construct
 * [HttpClient](https://github.com/nmattisson/HttpClient) - Http Client Library
 * [httpio](https://github.com/fetisov/httpio) - Stand-Alone Cross Platform request parser and response generator for the HTTP protocol
 * []() -
+
+
+### Network protocols
+
+* [PicoTCP](https://github.com/Tubbz-alt/picotcp) - is a small-footprint, modular TCP/IP stack designed for embedded systems and the Internet of Things
 
 
 ### web-server
