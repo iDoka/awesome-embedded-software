@@ -132,7 +132,7 @@ Under construct
 * [xmodem](https://github.com/bsail/xmodem) - XMODEM Library for embedded, mobile, iot, and desktop systems
 * [microrl](https://github.com/Helius/microrl) - micro read line library for small and embedded devices with basic VT100 support
 * [TinyFrame](https://github.com/MightyPork/TinyFrame) - a simple library for building and parsing data frames for serial interfaces (like UART / RS232)
-* []() -
+* [interchange](https://github.com/trussed-dev/interchange) - request/response mechanism for embedded development, using atomics
 * []() -
 * []() -
 
@@ -172,6 +172,7 @@ Under construct
 * [LibHydrogen](https://github.com/jedisct1/libhydrogen) - a lightweight, secure, easy-to-use crypto library suitable for constrained environments
 * [krypton](https://github.com/ezhangle/krypton) - Embedded TLS/DTLS library, source and binary compatible OpenSSL subset
 * [wolfTPM](https://github.com/wolfSSL/wolfTPM) - a highly portable TPM 2.0 library, designed for embedded use
+* [salty](https://github.com/ycrypto/salty) - Ed25519 signatures with assembly optimizations for Cortex-M4 and Cortex-M33
 * [mbedTLS]()
 
 
@@ -179,6 +180,7 @@ Under construct
 
 * [heatshrink](https://github.com/atomicobject/heatshrink) - data compression library for embedded/real-time systems
 * [shoco](https://github.com/Ed-von-Schleck/shoco) - a C library to compress and decompress short strings. It is very fast and easy to use. The default compression model is optimized for english words, but you can generate your own compression model
+* [ECL](https://github.com/Nonoum/ECL) - Embedded Compression Library is not only for embedded, it is mostly oriented for small data and has special optimized low-memory modes for restricted environments
 
 
 ### DSP and Filtering
