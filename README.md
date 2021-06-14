@@ -156,7 +156,7 @@ Under construct
 
 * [liquid-fpm](https://github.com/jgaeddert/liquid-fpm) - Software-Defined Radio Fixed-Point Math Library for embedded signal processing
 * [liquid-dsp](https://github.com/jgaeddert/liquid-dsp) - digital signal processing library for software-defined radios
-* []() -
+* [minfft](https://github.com/aimukhin/minfft) - small and fast Discrete Fourier Transform library
 
 
 ### Random Number Generation
