@@ -332,6 +332,11 @@ Under construct
 * [SFUD](https://github.com/armink/SFUD) - Serial Flash Universal Driver (using JEDEC's SFDP standard serial (SPI) flash universal driver library)
 
 
+### CAN bus
+
+* [libcanard](https://github.com/UAVCAN/libcanard) - compact implementation of the UAVCAN/CAN protocol in C for high-integrity real-time embedded systems
+
+
 ## Uncategorized
 
 * [TimeLib](https://github.com/geekfactory/TimeLib) - Time management library for embedded devices
