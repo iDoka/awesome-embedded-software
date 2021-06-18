@@ -335,6 +335,7 @@ Under construct
 ### CAN bus
 
 * [libcanard](https://github.com/UAVCAN/libcanard) - compact implementation of the UAVCAN/CAN protocol in C for high-integrity real-time embedded systems
+* [Canbus-Message](https://github.com/ReFil/Canbus-Message) - CAN message assembly and disassembly library for teensy & stm32
 
 
 ## Uncategorized
