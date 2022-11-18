@@ -1,3 +1,4 @@
+
 # Awesome List Of Sources And Libs For Embedded Systems Development [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![GitHub stars](https://badgen.net/github/stars/iDoka/awesome-embedded-software)](https://GitHub.com/iDoka/awesome-embedded-software/stargazers/)
@@ -171,7 +172,7 @@ Under construct
 * [krypton](https://github.com/ezhangle/krypton) - Embedded TLS/DTLS library, source and binary compatible OpenSSL subset.
 * [wolfTPM](https://github.com/wolfSSL/wolfTPM) - Highly portable TPM 2.0 library, designed for embedded use.
 * [salty](https://github.com/ycrypto/salty) - Ed25519 signatures with assembly optimizations for Cortex-M4 and Cortex-M33.
-* [mbedTLS]()
+* [mbedTLS](https://github.com/Mbed-TLS/mbedtls) - Open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. 
 
 
 ### Compression
@@ -259,7 +260,7 @@ Under construct
 * [ESLowGraphics](https://github.com/errorcalc/ESLowGraphicsLibrary) - Low level software graphics library by ErrorSoft (ESLGL).
 * [ftk](https://github.com/prife/ftk) - GUI library for embedded system.
 * [u8glib](https://github.com/pabigot/u8glib) - Universal Graphics Library for 8 Bit Embedded Systems.
-* [u8g2](https://github.com/olikraus/u8g2)🔝 - U8glib library for monochrome displays, version 2.
+* 🔝[u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2.
 * [SGFX](https://github.com/rprata/sgfx) - Lightweight embedded library for displays and touchscreens providing everything required to build a fully featured embedded GUI.
 * [GUIX](https://github.com/azure-rtos/guix) - Provides a complete, embedded graphical user interface (GUI) library and design environment, facilitating the creation and maintenance of all graphical elements needed by your device.
 * [GUILib](https://github.com/Nikolay-Kha/GUILib) - GUI library for embedded systems.
@@ -293,11 +294,11 @@ Under construct
 
 * [FreeRTOS](https://github.com/FreeRTOS/FreeRTOS) - FreeRTOS.
 * [Zephyr](https://github.com/zephyrproject-rtos/zephyr) - New generation, scalable, optimized, secure RTOS for multiple hardware architectures.
-* [Apache NuttX]() - Apache NuttX.
+* [Apache NuttX](https://github.com/apache/incubator-nuttx) - Apache NuttX is a mature, real-time embedded operating system (RTOS).
 * [scmRTOS](https://github.com/scmrtos/scmrtos) - Tiny Real-Time Preemptive Operating System intended for use with Single-Chip Microcontrollers. scmRTOS is capable to run on tiny uCs with as small amount of RAM as 512 bytes. The RTOS is written on C++ and supports various platforms.
-* [ChibiOS]() - ChibiOS.
+* [ChibiOS/RT](https://github.com/ChibiOS/ChibiOS) - Compact and fast real-time operating system supporting multiple architectures designed for embedded applications on microcontrollers of 8-, 16-, and 32-bits.
 * [Azure RTOS ThreadX](https://github.com/azure-rtos/threadx) - Advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
-* [eCos]() - eCos.
+* [eCos](https://ecos.sourceware.org/) - Real-time operating system intended for embedded applications _(Closed source)_.
 * [embox](https://github.com/embox/embox) - Configurable RTOS designed for resource constrained and embedded systems. Embox main idea is using Linux software without Linux.
 * [RIOT](https://github.com/RIOT-OS/RIOT) - Real-time multi-threading operating system that supports a range of devices that are typically found in the Internet of Things (IoT): 8-bit, 16-bit and 32-bit microcontrollers. RIOT is based on the following design principles: energy-efficiency, real-time capabilities, small memory footprint, modularity, and uniform API access, independent of the underlying hardware (this API offers partial POSIX compliance).
 * [Arm Mbed OS](https://github.com/ARMmbed/mbed-os) - Platform operating system designed for the Internet of Things. It includes all the features you need to develop a connected product based on an Arm Cortex-M microcontroller, including security, connectivity, an RTOS and drivers for sensors and I/O devices.
@@ -310,7 +311,7 @@ Under construct
 
 * [citrus](https://github.com/strawberryhacker/citrus) - Bare metal ARM® Cortex®-A5 operating system.
 * [vanilla](https://github.com/strawberryhacker/vanilla) - Bare metal ARM® Cortex®-M7 operating system.
-* [chaos](https://github.com/strawberryhacker/chaos)🔝 - Bare metal multicore ARM® Cortex®-A operating system based on a microkernel architecture.
+* 🔝[chaos](https://github.com/strawberryhacker/chaos) - Bare metal multicore ARM® Cortex®-A operating system based on a microkernel architecture.
 
 
 ## Hardware
