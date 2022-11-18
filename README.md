@@ -124,7 +124,6 @@ Under construct
 ## HW
 
 * [embedded-driver](https://github.com/InfiniteYuan/embedded-driver-library) - Embedded driver library for various peripheral.
-* [tinyusb](https://github.com/hathach/tinyusb) - Cross-platform USB stack for embedded system.
 * [FlashAlgo](https://github.com/pyocd/FlashAlgo) - Framework for building Arm Cortex-M "FLM" style flash programming algorithms.
 
 
@@ -318,7 +317,7 @@ Under construct
 
 ### USB
 
-* [tinyusb](https://github.com/hathach/tinyusb) - Open source cross-platform USB stack for embedded system.
+* [tinyusb](https://github.com/hathach/tinyusb) - Cross-platform USB stack for embedded system.
 * [libusb_stm32](https://github.com/dmitrystu/libusb_stm32) - Lightweight USB device Stack for STM32 microcontrollers.
 
 ### Flash
