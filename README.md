@@ -1,9 +1,8 @@
-# Awesome List Of Sources And Libs For Embedded Systems Development
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome List Of Sources And Libs For Embedded Systems Development [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 [![GitHub stars](https://badgen.net/github/stars/iDoka/awesome-embedded-software)](https://GitHub.com/iDoka/awesome-embedded-software/stargazers/)
 [![GitHub forks](https://badgen.net/github/forks/iDoka/awesome-embedded-software)](https://GitHub.com/iDoka/awesome-embedded-software/network/)
 [![GitHub watchers](https://badgen.net/github/watchers/iDoka/awesome-embedded-software/)](https://GitHub.com/iDoka/awesome-embedded-software/watchers/)
-
 <!--
 [![GitHub contributors](https://badgen.net/github/contributors/iDoka/awesome-embedded-software)](https://GitHub.com/iDoka/awesome-embedded-software/graphs/contributors/)
 [![GitHub pull-requests merged](https://badgen.net/github/merged-prs/iDoka/awesome-embedded-software)](https://github.com/iDoka/awesome-embedded-software/pulls?q=is%3Amerged)
@@ -99,7 +98,7 @@ Under construct
 
 ### Thread management
 
-* [C-Thread-Pool](https://github.com/Pithikos/C-Thread-Pool) - minimal but powerful thread pool in ANSI C.
+* [C-Thread-Pool](https://github.com/Pithikos/C-Thread-Pool) - Minimal but powerful thread pool in ANSI C.
 
 
 ### IO
@@ -260,7 +259,7 @@ Under construct
 * [ESLowGraphics](https://github.com/errorcalc/ESLowGraphicsLibrary) - Low level software graphics library by ErrorSoft (ESLGL).
 * [ftk](https://github.com/prife/ftk) - GUI library for embedded system.
 * [u8glib](https://github.com/pabigot/u8glib) - Universal Graphics Library for 8 Bit Embedded Systems.
-* [**u8g2**](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2.
+* [u8g2](https://github.com/olikraus/u8g2)🔝 - U8glib library for monochrome displays, version 2.
 * [SGFX](https://github.com/rprata/sgfx) - Lightweight embedded library for displays and touchscreens providing everything required to build a fully featured embedded GUI.
 * [GUIX](https://github.com/azure-rtos/guix) - Provides a complete, embedded graphical user interface (GUI) library and design environment, facilitating the creation and maintenance of all graphical elements needed by your device.
 * [GUILib](https://github.com/Nikolay-Kha/GUILib) - GUI library for embedded systems.
@@ -311,7 +310,7 @@ Under construct
 
 * [citrus](https://github.com/strawberryhacker/citrus) - Bare metal ARM® Cortex®-A5 operating system.
 * [vanilla](https://github.com/strawberryhacker/vanilla) - Bare metal ARM® Cortex®-M7 operating system.
-* [**chaos**](https://github.com/strawberryhacker/chaos) - Bare metal multicore ARM® Cortex®-A operating system based on a microkernel architecture.
+* [chaos](https://github.com/strawberryhacker/chaos)🔝 - Bare metal multicore ARM® Cortex®-A operating system based on a microkernel architecture.
 
 
 ## Hardware
