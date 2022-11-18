@@ -40,6 +40,7 @@ Under construct
 * [lwpkt](https://github.com/MaJerle/lwpkt) - Lightweight packet protocol structure for multi-device communication focused on RS-485
 * [lwow](https://github.com/MaJerle/lwow) - Lightweight onewire protocol library optimized for UART hardware on embedded systems
 * [panStamp-SWAP](https://github.com/panStamp/swap) - Simple Wireless Abstract Protocol for any existing ISM radio
+* [panStamp-uSWAP](https://github.com/panStamp/uswap) - Micro SWAP stack for MCU's connected via UART
 
 
 ### Memory
