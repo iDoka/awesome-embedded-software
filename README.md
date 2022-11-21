@@ -305,6 +305,7 @@ Under construct
 * [Arm Mbed OS](https://github.com/ARMmbed/mbed-os) - Platform operating system designed for the Internet of Things. It includes all the features you need to develop a connected product based on an Arm Cortex-M microcontroller, including security, connectivity, an RTOS and drivers for sensors and I/O devices.
 * [RT-Thread](https://github.com/RT-Thread/rt-thread) - RT-Thread was born in 2006, it is an open source, neutral, and community-based real-time operating system (RTOS). RT-Thread has Standard version and Nano version. For resource-constrained microcontroller (MCU) systems, the NANO kernel version that requires only 3KB Flash and 1.2KB RAM memory resources can be tailored with easy-to-use tools; And for resource-rich IoT devices, RT-Thread can use the on-line software package management tool, together with system configuration tools, to achieve intuitive and rapid modular cutting, seamlessly import rich software packages, thus achieving complex functions like Android's graphical interface and touch sliding effects, smart voice interaction effects, and so on.
 * [distortos](https://github.com/DISTORTEC/distortos) - Object-oriented C++ RTOS for microcontrollers.
+* [R3-OS](https://github.com/r3-os/r3) - Experimental static (μITRON-esque) RTOS for deeply embedded systems, testing the limit of Rust's const eval and generics.
 
 
 
