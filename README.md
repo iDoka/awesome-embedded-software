@@ -316,7 +316,7 @@ Under construct
 * [citrus](https://github.com/strawberryhacker/citrus) - Bare metal ARM® Cortex®-A5 operating system.
 * [vanilla](https://github.com/strawberryhacker/vanilla) - Bare metal ARM® Cortex®-M7 operating system.
 * 🔝[chaos](https://github.com/strawberryhacker/chaos) - Bare metal multicore ARM® Cortex®-A operating system based on a microkernel architecture.
-
+* [LK kernel](https://github.com/littlekernel/lk) - The Little Kernel Embedded Operating System is SMP-aware kernel designed for small systems ported to a variety of platforms and cpu architectures.
 
 ## Hardware
 
