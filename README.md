@@ -175,6 +175,7 @@ Under construct
 * [salty](https://github.com/ycrypto/salty) - Ed25519 signatures with assembly optimizations for Cortex-M4 and Cortex-M33.
 * [mbedTLS](https://github.com/Mbed-TLS/mbedtls) - Open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API.
 * [micro-ecc](https://github.com/kmackay/micro-ecc) - ECDH and ECDSA for 8-bit, 32-bit, and 64-bit processors.
+* 🔝[liblithium](https://github.com/teslamotors/liblithium) - Lightweight cryptography library that is portable by design. It requires only standard C99 and does not assume 8-bit addressability, making it suitable for use on some DSP architectures as well as mainstream architectures.
 
 
 ### Compression
