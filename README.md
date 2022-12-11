@@ -176,7 +176,8 @@ Under construct
 * [mbedTLS](https://github.com/Mbed-TLS/mbedtls) - Open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API.
 * [micro-ecc](https://github.com/kmackay/micro-ecc) - ECDH and ECDSA for 8-bit, 32-bit, and 64-bit processors.
 * 🔝[liblithium](https://github.com/teslamotors/liblithium) - Lightweight cryptography library that is portable by design. It requires only standard C99 and does not assume 8-bit addressability, making it suitable for use on some DSP architectures as well as mainstream architectures.
-* 🔝[trezor-crypto](https://github.com/trezor/trezor-firmware/tree/master/crypto) - Heavily optimized cryptography algorithms for embedded devices.
+* 🔝[trezor-crypto](https://github.com/trezor/trezor-firmware/tree/master/crypto) - Heavily optimized cryptography algorithms for embedded Devices.
+* [poly1305-donna](https://github.com/floodyberry/poly1305-donna) -  Implementations of a fast Message-Authentication Code (8 bit, 16 bit, 32 bit and 64 bit multiplies versions).
 
 
 ### Compression
@@ -220,6 +221,7 @@ Under construct
 * [LwIP](http://savannah.nongnu.org/projects/lwip/) - Small independent implementation of the TCP/IP protocol suite that has been initially developed by Adam Dunkels. lwIP suitable for use in embedded systems with tens of kilobytes of free RAM and room for around 40 kilobytes of code ROM.
 * [HttpClient](https://github.com/nmattisson/HttpClient) - Http Client Library.
 * [httpio](https://github.com/fetisov/httpio) - Stand-Alone Cross Platform request parser and response generator for the HTTP protocol.
+* [mongoose](https://github.com/cesanta/mongoose) - Embedded Web Server and Embedded Networking Library. It implements event-driven non-blocking APIs for TCP, UDP, HTTP, WebSocket, MQTT.
 
 
 
