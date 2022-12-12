@@ -115,7 +115,9 @@ Under construct
 * [EmbeddedProto](https://github.com/Embedded-AMS/EmbeddedProto) -  C++ Protocol Buffers implementation specifically suitable for ARM Cortex-M microcontrollers. It is small, reliable and easy to use.
 * [protobuf-embedded-c](https://github.com/berezovskyi/protobuf-embedded-c) - Protocol buffers generator for resource constrained embedded applications written in the C programming language.
 
+### FIFO
 
+* [fifofast](https://github.com/nqtronix/fifofast) - A fast, generic fifo for MCUs.
 
 
 
@@ -157,6 +159,7 @@ Under construct
 * [liquid-fpm](https://github.com/jgaeddert/liquid-fpm) - Software-Defined Radio Fixed-Point Math Library for embedded signal processing.
 * [liquid-dsp](https://github.com/jgaeddert/liquid-dsp) - Digital signal processing library for software-defined radios.
 * [minfft](https://github.com/aimukhin/minfft) - Small and fast Discrete Fourier Transform library.
+* [FPM](https://github.com/MikeLankamp/fpm) - C++ header-only fixed-point math library.
 
 
 ### Random Number Generation
