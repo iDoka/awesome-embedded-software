@@ -17,103 +17,85 @@ URL: https://github.com/iDoka/awesome-embedded-software
 
 ## Contents
 
-Under construct
+* [Common](#common)
+* [Memory](#memory)
+  * [Memory management](#memory-management)
+  * [Buffers](#buffers)
+  * [Ring Buffer](#ring-buffer)
+  * [FIFO](#fifo)
+* [Storage](#storage)
+  * [Filesystems](#filesystems)
+  * [Data Bases](#data-bases)
+  * [Flash](#flash)
+* [Protocols](#protocols)
+  * [Radio Frequency Protocols](#radio-frequency-protocols)
+  * [Network protocols](#network-protocols)
+  * [Web Server](#web-server)
+  * [MQTT](#mqtt)
+  * [Protocol Parsers](#protocol-parsers)
+* [Data processing](#data-processing)
+  * [Math](#math)
+  * [DSP and Filtering](#dsp-and-filtering)
+  * [Compression](#compression)
+  * [AI ML](#ai-ml)
+  * [CV](#cv)
+* [Cryptography](#cryptography)
+  * [General](#general)
+  * [Elliptic Curve Cryptography](#elliptic-curve-cryptography)
+  * [Random Number Generation](#random-number-generation)
+* [OS](#os)
+  * [RTOS](#rtos)
+* [User Interface](#user-interface)
+  * [CLI](#cli)
+  * [Menu](#menu)
+  * [printf](#printf)
+  * [Logging](#logging)
+* [GUI](#gui)
+  * [GUI editors](#gui-editors)
+  * [Font utils](#font-utils)
+  * [Picture manupulation tools](#picture-manupulation-tools)
+* [Hardware](#hardware)
+  * [IO](#io)
+  * [USB](#usb)
+  * [Flash](#flash)
+  * [CAN bus](#can-bus)
+* [Others](#others)
+  * [Thread management](#thread-management)
+  * [Firmware updates](#firmware-updates)
+  * [Touch Screen](#touch-screen)
+  * [Time Management Libs](#time-management-libs)
+* [Uncategorized](#uncategorized)
+
 
 
 ## Common
 
+* [wiselib](https://github.com/ibr-alg/wiselib) - Generic algorithms library for heterogeneous, distributed, embedded systems.
+* [util.embedded](https://github.com/malachib/util.embedded) - Useful support code for embedded development.
 * [embxx](https://github.com/arobenko/embxx) - Embedded C++ Library.
 * [embedded-libs](https://github.com/MaJerle/embedded-libs) - Libraries for embedded software (mainly for STM32).
-* [RegExp](https://github.com/MaJerle/RegExp) - Regular expressions library for embedded systems.
 * [ETLCPP](https://github.com/ETLCPP/etl) - Embedded Template Library where the user can declare the size, or maximum size of any object upfront.
 * [eFLL](https://github.com/zerokol/eFLL) - Embedded Fuzzy Logic Library is a standard library for Embedded Systems.
-
-### Protocol Parsers
-
-* [LwGPS](https://github.com/MaJerle/lwgps) - Lightweight GPS NMEA parser for embedded systems.
-* [LwESP](https://github.com/MaJerle/lwesp) - Lightweight ESP AT commands parser library to communicate with ESP8266 or ESP32 Wi-Fi module using AT commands.
-* [LwGSM](https://github.com/MaJerle/lwgsm) - Library for SIMCOM GSM modules to communicate with AT commands and RTOS from host device.
-* [GSM_Engine](https://github.com/MikroElektronika/GSM_Engine) - Generic AT parser for AT command based modules.
-* [TinyGSM](https://github.com/vshymanskyy/TinyGSM) - Small Arduino library for GSM modules, that just works.
-
-#### AT command parser
-
-* [atat](https://github.com/esynr3z/atat) - Lib for AT-like custom commands processing.
-* [cAT](https://github.com/marcinbor85/cAT) - Plain C library for parsing AT commands for use in host devices.
-* [gzat](https://github.com/gzhouct/gzat) - Portable AT command parsing library in C++ language.
-* [ATParser](https://github.com/ARMmbed/ATParser) - An mbed-os compatible AT command parser.
-* [atcommander](https://github.com/malachi-iot/atcommander) - Portable C++ library for sending AT commands and parsing their responses.
+* [Collection of miscellaneous portable C snippets](https://github.com/nemequ/portable-snippets) - Collection of miscellaneous portable C snippets.
 
 
-#### Various protocols
 
-* [lwpkt](https://github.com/MaJerle/lwpkt) - Lightweight packet protocol structure for multi-device communication focused on RS-485.
-* [lwow](https://github.com/MaJerle/lwow) - Lightweight onewire protocol library optimized for UART hardware on embedded systems.
-* [panStamp-SWAP](https://github.com/panStamp/swap) - Simple Wireless Abstract Protocol for any existing ISM radio.
-* [panStamp-uSWAP](https://github.com/panStamp/uswap) - Micro SWAP stack for MCU's connected via UART.
+## Memory
 
-
-### Memory
+### Memory management
 
 * [libmemory](https://github.com/embeddedartistry/libmemory) - Memory management library with implementations for malloc(), free(), and other useful memory management functions.
 * [lwmem](https://github.com/MaJerle/lwmem) - Lightweight dynamic memory manager library for embedded systems with memory constraints. It implements malloc, calloc, realloc and free functions.
-* [EasyFlash](https://github.com/armink/EasyFlash#1-introduction) - Lightweight embedded flash memory library.
 
+### Buffers
 
-### Logging
-
-* [embedded-log](https://github.com/to9/embedded-log) - Small and beautiful embedded log library for mcu.
-* [EasyLogger](https://github.com/armink/EasyLogger) - Ultra-lightweight (ROM<1.6K, RAM<0.3k), high-performance C/C++ log library.
-* [trice](https://github.com/rokath/trice) - Super fast and tiny embedded device C printf-like trace code (works also inside interrupts) and real-time PC logging (trace ID visualization).
-* [embedded-diagnostic-logger](https://github.com/binarymaker/embedded-diagnostic-logger) - Lightweight logger framework for small microcontroller based projects. Multilevel log and token based string transfer. 
-
-
-### Data Bases
-
-* [FlashDB](https://github.com/armink/FlashDB) - Ultra-lightweight database that supports key-value and time series data.
-
+* [EmbeddedProto](https://github.com/Embedded-AMS/EmbeddedProto) -  C++ Protocol Buffers implementation specifically suitable for ARM Cortex-M microcontrollers. It is small, reliable and easy to use.
+* [protobuf-embedded-c](https://github.com/berezovskyi/protobuf-embedded-c) - Protocol buffers generator for resource constrained embedded applications written in the C programming language.
 
 ### Ring Buffer
 
 * [LwRB](https://github.com/MaJerle/lwrb) - Lightweight generic ring buffer manager library.
 * [RingBuffer](https://github.com/wizard97/ArduinoRingBuffer) - Simple Interrupt Safe Ring (Circular) Buffer Queuing Library for Embedded platforms.
-
-
-### printf
-
-* [lwprintf](https://github.com/MaJerle/lwprintf) - Lightweight printf library optimized for embedded systems.
-* [Embedded_Printf](https://github.com/agaelema/Embedded_Printf) - Embedded version of the famous "printf( )" function. The idea is create an simple and efficient library to meet some common needs in embedded systems.
-* [tinyprintf](https://github.com/cjlano/tinyprintf) - Tiny printf and sprintf library for small embedded systems.
-
-
-### CLI
-
-* [cli](https://github.com/letgo0007/cli) - CLI (Command Line Interface) example build in pure C. Designed for MCU, support block/non-block mode input.
-* [terminal](https://github.com/JingoC/terminal) - Command Line Interface for microcontrollers. Flexible terminal settings allow you to integrate it with any microcontroller, without much effort.
-* [SerialMenu](https://github.com/sonyhome/SerialMenu) - Arduino library to easily create menus on the serial console.
-
-
-### Menu
-
-* [ProMenu](https://github.com/marcinbor85/ProMenu) - Advanced Generic Application Menu Library. ProMenu Library is used for fast implementing advanced user menus. It supports nesting, numeric settings, text settings, boolean values and events. Library is implemented in C++ with build-in Arduino port, but it is easy to port to different architecture.
-
-
-
-### Thread management
-
-* [C-Thread-Pool](https://github.com/Pithikos/C-Thread-Pool) - Minimal but powerful thread pool in ANSI C.
-
-
-### IO
-
-* [FastIO](https://github.com/xillion/FastIO) - Fast GPIO forked from http://os.mbed.com/users/Sissors/code/FastIO/ .
-
-
-### Buffers
-
-
-* [EmbeddedProto](https://github.com/Embedded-AMS/EmbeddedProto) -  C++ Protocol Buffers implementation specifically suitable for ARM Cortex-M microcontrollers. It is small, reliable and easy to use.
-* [protobuf-embedded-c](https://github.com/berezovskyi/protobuf-embedded-c) - Protocol buffers generator for resource constrained embedded applications written in the C programming language.
 
 ### FIFO
 
@@ -121,129 +103,9 @@ Under construct
 
 
 
-## Snippets
+## Storage
 
-* [Collection of miscellaneous portable C snippets](https://github.com/nemequ/portable-snippets) - Collection of miscellaneous portable C snippets.
-
-## HW
-
-* [embedded-driver](https://github.com/InfiniteYuan/embedded-driver-library) - Embedded driver library for various peripheral.
-* [FlashAlgo](https://github.com/pyocd/FlashAlgo) - Framework for building Arm Cortex-M "FLM" style flash programming algorithms.
-
-
-
-## Protocols
-
-* [xmodem](https://github.com/bsail/xmodem) - XMODEM Library for embedded, mobile, iot, and desktop systems.
-* [microrl](https://github.com/Helius/microrl) - Micro read line library for small and embedded devices with basic VT100 support.
-* [TinyFrame](https://github.com/MightyPork/TinyFrame) - Simple library for building and parsing data frames for serial interfaces (like UART / RS232).
-* [interchange](https://github.com/trussed-dev/interchange) - Request/response mechanism for embedded development, using atomics.
-
-
-### RF
-
-* [RadioHead](https://github.com/hallard/RadioHead) - Packet Radio library for embedded microprocessors.
-* [Adafruit's RadioHead](https://github.com/adafruit/RadioHead) - Packet Radio library for embedded microprocessors with [docs](http://www.airspayce.com/mikem/arduino/RadioHead/).
-
-
-### MQTT
-
-* [libemqtt 1](https://github.com/menudoproblema/libemqtt) - Embedded C client library for the MQTT protocol.
-* [libumqtt 2](https://github.com/zhaojh329/libumqtt) - Lightweight and fully asynchronous MQTT client C library based on libev.
-* [Paho MQTT](https://github.com/eclipse/paho.mqtt.embedded-c) - C client library for embedded systems.
-
-
-
-## Data processing
-
-* [liquid-fpm](https://github.com/jgaeddert/liquid-fpm) - Software-Defined Radio Fixed-Point Math Library for embedded signal processing.
-* [liquid-dsp](https://github.com/jgaeddert/liquid-dsp) - Digital signal processing library for software-defined radios.
-* [minfft](https://github.com/aimukhin/minfft) - Small and fast Discrete Fourier Transform library.
-* [FPM](https://github.com/MikeLankamp/fpm) - C++ header-only fixed-point math library.
-
-
-### Random Number Generation
-
-* [pcg-c-basic](https://github.com/imneme/pcg-c-basic) - Code provides a minimal implementation of one member of the PCG family of random number generators, which are fast, statistically excellent, and offer a number of useful features.
-* [pcg-c](https://github.com/imneme/pcg-c) - Code provides an implementation of the PCG family of random number generators, which are fast, statistically excellent, and offer a number of useful features.
-
-
-### Cryptography
-
-* [trussed](https://github.com/trussed-dev/trussed) - Minimal, modular way to write cryptographic applications on microcontroller platforms (Rust).
-* [wolfSSH](https://www.wolfssl.com/products/wolfssh/) - Lightweight SSHv2 client and server library written in ANSI C and targeted for embedded, RTOS, and resource-constrained environments - primarily because of its small size, speed, and feature set.
-* [LibHydrogen](https://github.com/jedisct1/libhydrogen) - Lightweight, secure, easy-to-use crypto library suitable for constrained environments.
-* [krypton](https://github.com/ezhangle/krypton) - Embedded TLS/DTLS library, source and binary compatible OpenSSL subset.
-* [wolfTPM](https://github.com/wolfSSL/wolfTPM) - Highly portable TPM 2.0 library, designed for embedded use.
-* [salty](https://github.com/ycrypto/salty) - Ed25519 signatures with assembly optimizations for Cortex-M4 and Cortex-M33.
-* [mbedTLS](https://github.com/Mbed-TLS/mbedtls) - Open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API.
-* [micro-ecc](https://github.com/kmackay/micro-ecc) - ECDH and ECDSA for 8-bit, 32-bit, and 64-bit processors.
-* 🔝[liblithium](https://github.com/teslamotors/liblithium) - Lightweight cryptography library that is portable by design. It requires only standard C99 and does not assume 8-bit addressability, making it suitable for use on some DSP architectures as well as mainstream architectures.
-* 🔝[trezor-crypto](https://github.com/trezor/trezor-firmware/tree/master/crypto) - Heavily optimized cryptography algorithms for embedded Devices.
-* [poly1305-donna](https://github.com/floodyberry/poly1305-donna) -  Implementations of a fast Message-Authentication Code (8 bit, 16 bit, 32 bit and 64 bit multiplies versions).
-* [libuecc](https://github.com/NeoRaider/libuecc) - Very small generic-purpose Elliptic Curve Cryptography library compatible with Ed25519.
-
-
-### Compression
-
-* [heatshrink](https://github.com/atomicobject/heatshrink) - Data compression library for embedded/real-time systems.
-* [shoco](https://github.com/Ed-von-Schleck/shoco) - C library to compress and decompress short strings. It is very fast and easy to use. The default compression model is optimized for english words, but you can generate your own compression model.
-* [ECL](https://github.com/Nonoum/ECL) - Embedded Compression Library is not only for embedded, it is mostly oriented for small data and has special optimized low-memory modes for restricted environments.
-
-
-### DSP and Filtering
-
-* [kalman-clib](https://github.com/sunsided/kalman-clib) - Microcontroller targeted naive Kalman filter implementation in pure C.
-* [libdspl](https://sourceforge.net/p/libdspl-2-0/code/ci/master/tree/) - Cross-platform digital signal processing algorithm library, written in C language.
-
-
-
-### CV
-
-* [Embedded SOD](https://github.com/symisc/sod) - Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable).
-* [QR-Image-embedded](https://github.com/swex/QR-Image-embedded) - QR library fork for embedded systems.
-
-
-### AI ML
-
-* [Cranium](https://github.com/100/Cranium) - Portable, header-only, feedforward artificial neural network library written in vanilla C99.
-* [μTensor](https://github.com/uTensor/uTensor) - TinyML AI inference library.
-* [Fido](https://github.com/FidoProject/Fido) - Lightweight C++ machine learning library for embedded electronics and robotics.
-* [nnom](https://github.com/majianjia/nnom) - Neural Network on Microcontroller (NNoM) is a high-level inference Neural Network library specifically for microcontrollers.
-* [caffepresso](https://github.com/gplhegde/caffepresso) - Optimized Library for Deep Learning on Embedded Accelerator-based platforms.
-* [libonnx](https://github.com/xboot/libonnx) - Lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
-
-### DataBases
-
-* [PureDB](https://github.com/jedisct1/PureDB) - Portable and tiny set of libraries for creating and reading constant databases.
-
-
-
-
-## WEB
-
-* [uIP](https://github.com/adamdunkels/uip) - Very small implementation of the TCP/IP stack that is written by Adam Dunkels.
-* [LwIP](http://savannah.nongnu.org/projects/lwip/) - Small independent implementation of the TCP/IP protocol suite that has been initially developed by Adam Dunkels. lwIP suitable for use in embedded systems with tens of kilobytes of free RAM and room for around 40 kilobytes of code ROM.
-* [HttpClient](https://github.com/nmattisson/HttpClient) - Http Client Library.
-* [httpio](https://github.com/fetisov/httpio) - Stand-Alone Cross Platform request parser and response generator for the HTTP protocol.
-* [mongoose](https://github.com/cesanta/mongoose) - Embedded Web Server and Embedded Networking Library. It implements event-driven non-blocking APIs for TCP, UDP, HTTP, WebSocket, MQTT.
-
-
-
-### Network protocols
-
-* [PicoTCP](https://github.com/Tubbz-alt/picotcp) - Small-footprint, modular TCP/IP stack designed for embedded systems and the Internet of Things.
-
-
-### web-server
-
-* [mongoose](https://github.com/cesanta/mongoose) - Embedded Web Server Library. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server, MQTT client and broker and much more.
-* [libevhtp](https://github.com/criticalstack/libevhtp) - Extremely-fast and secure embedded HTTP servers with ease.
-* [libμhttpd](https://github.com/zhaojh329/libuhttpd) - Very flexible, lightweight and fully asynchronous HTTP server library based on libev and http-parser.
-
-
-
-## Filesystem
+### Filesystems
 
 * [lwext4](https://github.com/gkostka/lwext4) - An ext2/ext3/ext4 filesystem library for microcontrollers.
 * [FatFS](http://elm-chan.org/fsw/ff/00index_e.html) - FAT filesystem implementation.
@@ -254,12 +116,205 @@ Under construct
 * [fat32](https://github.com/strawberryhacker/fat32) - Lighweight FAT32 file system written in C with no thirdparty dependencies. It requires a small port which provide functions for initializing, reading and writing to the MSD.
 * [emfat](https://github.com/fetisov/emfat) - FAT32 emulation library for stm32f4.
 
+### Data Bases
+
+* [FlashDB](https://github.com/armink/FlashDB) - Ultra-lightweight database that supports key-value and time series data.
+* [PureDB](https://github.com/jedisct1/PureDB) - Portable and tiny set of libraries for creating and reading constant databases.
+
+### Flash
+
+* [EasyFlash](https://github.com/armink/EasyFlash#1-introduction) - Lightweight embedded flash memory library.
+* [FlashAlgo](https://github.com/pyocd/FlashAlgo) - Framework for building Arm Cortex-M "FLM" style flash programming algorithms.
 
 
-## Firmware updates
 
 
-* [SWupdate](https://github.com/sbabic/swupdate) - Software Update for Embedded Linux Devices to update system in field. SWUpdate supports local and OTA updates, multiple update strategies and it is designed with security in mind.
+## Protocols
+
+* [interchange](https://github.com/trussed-dev/interchange) - Request/response mechanism for embedded development, using atomics.
+* [xmodem](https://github.com/bsail/xmodem) - XMODEM Library for embedded, mobile, iot, and desktop systems.
+* [microrl](https://github.com/Helius/microrl) - Micro read line library for small and embedded devices with basic VT100 support.
+* [TinyFrame](https://github.com/MightyPork/TinyFrame) - Simple library for building and parsing data frames for serial interfaces (like UART / RS232).
+
+### Radio Frequency Protocols
+
+* [RadioHead](https://github.com/hallard/RadioHead) - Packet Radio library for embedded microprocessors.
+* [Adafruit's RadioHead](https://github.com/adafruit/RadioHead) - Packet Radio library for embedded microprocessors with [docs](http://www.airspayce.com/mikem/arduino/RadioHead/).
+
+### Network protocols
+* [uIP](https://github.com/adamdunkels/uip) - Very small implementation of the TCP/IP stack that is written by Adam Dunkels.
+* [LwIP](http://savannah.nongnu.org/projects/lwip/) - Small independent implementation of the TCP/IP protocol suite that has been initially developed by Adam Dunkels. lwIP suitable for use in embedded systems with tens of kilobytes of free RAM and room for around 40 kilobytes of code ROM.
+* [HttpClient](https://github.com/nmattisson/HttpClient) - Http Client Library.
+* [httpio](https://github.com/fetisov/httpio) - Stand-Alone Cross Platform request parser and response generator for the HTTP protocol.
+* [PicoTCP](https://github.com/Tubbz-alt/picotcp) - Small-footprint, modular TCP/IP stack designed for embedded systems and the Internet of Things.
+
+### Web Server
+
+* [mongoose](https://github.com/cesanta/mongoose) - Embedded Web Server and Embedded Networking Library. It implements event-driven non-blocking APIs for TCP, UDP, HTTP, WebSocket, MQTT.
+* [libevhtp](https://github.com/criticalstack/libevhtp) - Extremely-fast and secure embedded HTTP servers with ease.
+* [libμhttpd](https://github.com/zhaojh329/libuhttpd) - Very flexible, lightweight and fully asynchronous HTTP server library based on libev and http-parser.
+
+### MQTT
+
+* [libemqtt 1](https://github.com/menudoproblema/libemqtt) - Embedded C client library for the MQTT protocol.
+* [libumqtt 2](https://github.com/zhaojh329/libumqtt) - Lightweight and fully asynchronous MQTT client C library based on libev.
+* [Paho MQTT](https://github.com/eclipse/paho.mqtt.embedded-c) - C client library for embedded systems.
+
+### Protocol Parsers
+
+* [LwGPS](https://github.com/MaJerle/lwgps) - Lightweight GPS NMEA parser for embedded systems.
+* [LwESP](https://github.com/MaJerle/lwesp) - Lightweight ESP AT commands parser library to communicate with ESP8266 or ESP32 Wi-Fi module using AT commands.
+* [LwGSM](https://github.com/MaJerle/lwgsm) - Library for SIMCOM GSM modules to communicate with AT commands and RTOS from host device.
+* [GSM_Engine](https://github.com/MikroElektronika/GSM_Engine) - Generic AT parser for AT command based modules.
+* [TinyGSM](https://github.com/vshymanskyy/TinyGSM) - Small Arduino library for GSM modules, that just works.
+
+#### Regular Expressions Parsers
+
+* [RegExp](https://github.com/MaJerle/RegExp) - Regular expressions library for embedded systems.
+
+#### AT command parser
+
+* [atat](https://github.com/esynr3z/atat) - Lib for AT-like custom commands processing.
+* [cAT](https://github.com/marcinbor85/cAT) - Plain C library for parsing AT commands for use in host devices.
+* [gzat](https://github.com/gzhouct/gzat) - Portable AT command parsing library in C++ language.
+* [ATParser](https://github.com/ARMmbed/ATParser) - An mbed-os compatible AT command parser.
+* [atcommander](https://github.com/malachi-iot/atcommander) - Portable C++ library for sending AT commands and parsing their responses.
+
+#### Various protocols
+
+* [lwpkt](https://github.com/MaJerle/lwpkt) - Lightweight packet protocol structure for multi-device communication focused on RS-485.
+* [lwow](https://github.com/MaJerle/lwow) - Lightweight onewire protocol library optimized for UART hardware on embedded systems.
+* [panStamp-SWAP](https://github.com/panStamp/swap) - Simple Wireless Abstract Protocol for any existing ISM radio.
+* [panStamp-uSWAP](https://github.com/panStamp/uswap) - Micro SWAP stack for MCU's connected via UART.
+
+
+
+
+
+## Data processing
+
+### Math
+
+* [liquid-fpm](https://github.com/jgaeddert/liquid-fpm) - Software-Defined Radio Fixed-Point Math Library for embedded signal processing.
+* [FPM](https://github.com/MikeLankamp/fpm) - C++ header-only fixed-point math library.
+
+### DSP and Filtering
+
+* [liquid-dsp](https://github.com/jgaeddert/liquid-dsp) - Digital signal processing library for software-defined radios.
+* [minfft](https://github.com/aimukhin/minfft) - Small and fast Discrete Fourier Transform library.
+* [iir1](https://github.com/berndporr/iir1) - DSP IIR realtime filter library written in C++.
+* [kalman-clib](https://github.com/sunsided/kalman-clib) - Microcontroller targeted naive Kalman filter implementation in pure C.
+* [libdspl](https://sourceforge.net/p/libdspl-2-0/code/ci/master/tree/) - Cross-platform digital signal processing algorithm library, written in C language.
+
+### Compression
+
+* [heatshrink](https://github.com/atomicobject/heatshrink) - Data compression library for embedded/real-time systems.
+* [shoco](https://github.com/Ed-von-Schleck/shoco) - C library to compress and decompress short strings. It is very fast and easy to use. The default compression model is optimized for english words, but you can generate your own compression model.
+* [ECL](https://github.com/Nonoum/ECL) - Embedded Compression Library is not only for embedded, it is mostly oriented for small data and has special optimized low-memory modes for restricted environments.
+
+### AI ML
+
+Artificial Intelligence and Machine Learning
+
+* [Cranium](https://github.com/100/Cranium) - Portable, header-only, feedforward artificial neural network library written in vanilla C99.
+* [μTensor](https://github.com/uTensor/uTensor) - TinyML AI inference library.
+* [Fido](https://github.com/FidoProject/Fido) - Lightweight C++ machine learning library for embedded electronics and robotics.
+* [nnom](https://github.com/majianjia/nnom) - Neural Network on Microcontroller (NNoM) is a high-level inference Neural Network library specifically for microcontrollers.
+* [caffepresso](https://github.com/gplhegde/caffepresso) - Optimized Library for Deep Learning on Embedded Accelerator-based platforms.
+* [libonnx](https://github.com/xboot/libonnx) - Lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
+
+### CV
+
+Computer Vision
+
+* [Embedded SOD](https://github.com/symisc/sod) - Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable).
+* [QR-Image-embedded](https://github.com/swex/QR-Image-embedded) - QR library fork for embedded systems.
+
+
+
+
+## Cryptography
+
+### General
+
+* [trussed](https://github.com/trussed-dev/trussed) - Minimal, modular way to write cryptographic applications on microcontroller platforms (Rust).
+* [wolfSSH](https://www.wolfssl.com/products/wolfssh/) - Lightweight SSHv2 client and server library written in ANSI C and targeted for embedded, RTOS, and resource-constrained environments - primarily because of its small size, speed, and feature set.
+* [LibHydrogen](https://github.com/jedisct1/libhydrogen) - Lightweight, secure, easy-to-use crypto library suitable for constrained environments.
+* [krypton](https://github.com/ezhangle/krypton) - Embedded TLS/DTLS library, source and binary compatible OpenSSL subset.
+* [wolfTPM](https://github.com/wolfSSL/wolfTPM) - Highly portable TPM 2.0 library, designed for embedded use.
+* [mbedTLS](https://github.com/Mbed-TLS/mbedtls) - Open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API.
+* 🔝[liblithium](https://github.com/teslamotors/liblithium) - Lightweight cryptography library that is portable by design. It requires only standard C99 and does not assume 8-bit addressability, making it suitable for use on some DSP architectures as well as mainstream architectures.
+* 🔝[trezor-crypto](https://github.com/trezor/trezor-firmware/tree/master/crypto) - Heavily optimized cryptography algorithms for embedded Devices.
+* [poly1305-donna](https://github.com/floodyberry/poly1305-donna) -  Implementations of a fast Message-Authentication Code (8 bit, 16 bit, 32 bit and 64 bit multiplies versions).
+
+### Elliptic Curve Cryptography
+
+* [salty](https://github.com/ycrypto/salty) - Ed25519 signatures with assembly optimizations for Cortex-M4 and Cortex-M33.
+* [micro-ecc](https://github.com/kmackay/micro-ecc) - ECDH and ECDSA for 8-bit, 32-bit, and 64-bit processors.
+* [libuecc](https://github.com/NeoRaider/libuecc) - Very small generic-purpose Elliptic Curve Cryptography library compatible with Ed25519.
+
+### Random Number Generation
+
+* [pcg-c-basic](https://github.com/imneme/pcg-c-basic) - Code provides a minimal implementation of one member of the PCG family of random number generators, which are fast, statistically excellent, and offer a number of useful features.
+* [pcg-c](https://github.com/imneme/pcg-c) - Code provides an implementation of the PCG family of random number generators, which are fast, statistically excellent, and offer a number of useful features.
+
+
+
+
+## OS
+
+* [citrus](https://github.com/strawberryhacker/citrus) - Bare metal ARM® Cortex®-A5 operating system.
+* [vanilla](https://github.com/strawberryhacker/vanilla) - Bare metal ARM® Cortex®-M7 operating system.
+* 🔝[chaos](https://github.com/strawberryhacker/chaos) - Bare metal multicore ARM® Cortex®-A operating system based on a microkernel architecture.
+* [LK kernel](https://github.com/littlekernel/lk) - The Little Kernel Embedded Operating System is SMP-aware kernel designed for small systems ported to a variety of platforms and cpu architectures.
+
+### RTOS
+
+* [FreeRTOS](https://github.com/FreeRTOS/FreeRTOS) - FreeRTOS.
+* [Zephyr](https://github.com/zephyrproject-rtos/zephyr) - New generation, scalable, optimized, secure RTOS for multiple hardware architectures.
+* [Apache NuttX](https://github.com/apache/incubator-nuttx) - Apache NuttX is a mature, real-time embedded operating system (RTOS).
+* [scmRTOS](https://github.com/scmrtos/scmrtos) - Tiny Real-Time Preemptive Operating System intended for use with Single-Chip Microcontrollers. scmRTOS is capable to run on tiny uCs with as small amount of RAM as 512 bytes. The RTOS is written on C++ and supports various platforms.
+* [ChibiOS/RT](https://github.com/ChibiOS/ChibiOS) - Compact and fast real-time operating system supporting multiple architectures designed for embedded applications on microcontrollers of 8-, 16-, and 32-bits.
+* [Azure RTOS ThreadX](https://github.com/azure-rtos/threadx) - Advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
+* [eCos](https://ecos.sourceware.org/) - Real-time operating system intended for embedded applications _(Closed source)_.
+* [embox](https://github.com/embox/embox) - Configurable RTOS designed for resource constrained and embedded systems. Embox main idea is using Linux software without Linux.
+* [RIOT](https://github.com/RIOT-OS/RIOT) - Real-time multi-threading operating system that supports a range of devices that are typically found in the Internet of Things (IoT): 8-bit, 16-bit and 32-bit microcontrollers. RIOT is based on the following design principles: energy-efficiency, real-time capabilities, small memory footprint, modularity, and uniform API access, independent of the underlying hardware (this API offers partial POSIX compliance).
+* [Arm Mbed OS](https://github.com/ARMmbed/mbed-os) - Platform operating system designed for the Internet of Things. It includes all the features you need to develop a connected product based on an Arm Cortex-M microcontroller, including security, connectivity, an RTOS and drivers for sensors and I/O devices.
+* [RT-Thread](https://github.com/RT-Thread/rt-thread) - RT-Thread was born in 2006, it is an open source, neutral, and community-based real-time operating system (RTOS). RT-Thread has Standard version and Nano version. For resource-constrained microcontroller (MCU) systems, the NANO kernel version that requires only 3KB Flash and 1.2KB RAM memory resources can be tailored with easy-to-use tools; And for resource-rich IoT devices, RT-Thread can use the on-line software package management tool, together with system configuration tools, to achieve intuitive and rapid modular cutting, seamlessly import rich software packages, thus achieving complex functions like Android's graphical interface and touch sliding effects, smart voice interaction effects, and so on.
+* [distortos](https://github.com/DISTORTEC/distortos) - Object-oriented C++ RTOS for microcontrollers.
+* [R3-OS](https://github.com/r3-os/r3) - Experimental static (μITRON-esque) RTOS for deeply embedded systems, testing the limit of Rust's const eval and generics _(Rust)_.
+* [Tock Embedded OS](https://github.com/tock/tock) - Embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers _(Rust)_.
+
+
+
+
+## User Interface
+
+### CLI
+
+* [cli](https://github.com/letgo0007/cli) - CLI (Command Line Interface) example build in pure C. Designed for MCU, support block/non-block mode input.
+* [terminal](https://github.com/JingoC/terminal) - Command Line Interface for microcontrollers. Flexible terminal settings allow you to integrate it with any microcontroller, without much effort.
+* [SerialMenu](https://github.com/sonyhome/SerialMenu) - Arduino library to easily create menus on the serial console.
+
+### Menu
+
+* [ProMenu](https://github.com/marcinbor85/ProMenu) - Advanced Generic Application Menu Library. ProMenu Library is used for fast implementing advanced user menus. It supports nesting, numeric settings, text settings, boolean values and events. Library is implemented in C++ with build-in Arduino port, but it is easy to port to different architecture.
+
+### printf
+
+* [lwprintf](https://github.com/MaJerle/lwprintf) - Lightweight printf library optimized for embedded systems.
+* [Embedded_Printf](https://github.com/agaelema/Embedded_Printf) - Embedded version of the famous "printf( )" function. The idea is create an simple and efficient library to meet some common needs in embedded systems.
+* [tinyprintf](https://github.com/cjlano/tinyprintf) - Tiny printf and sprintf library for small embedded systems.
+
+### Logging
+
+* [embedded-log](https://github.com/to9/embedded-log) - Small and beautiful embedded log library for mcu.
+* [EasyLogger](https://github.com/armink/EasyLogger) - Ultra-lightweight (ROM<1.6K, RAM<0.3k), high-performance C/C++ log library.
+* [trice](https://github.com/rokath/trice) - Super fast and tiny embedded device C printf-like trace code (works also inside interrupts) and real-time PC logging (trace ID visualization).
+* [embedded-diagnostic-logger](https://github.com/binarymaker/embedded-diagnostic-logger) - Lightweight logger framework for small microcontroller based projects. Multilevel log and token based string transfer. 
+
+
+
 
 ## GUI
 
@@ -281,12 +336,10 @@ Under construct
 * [emGUI](https://github.com/libEmGUI/emGUI) - Simple C UI Library for embedded platforms.
 * [micromenu-v2](https://github.com/abcminiuser/micromenu-v2) - Tiny text-orientated menu library in C for embedded use.
 
-
 ### GUI editors
 
 * [lv_gui_designer](https://github.com/kaiakz/lv_gui_designer) - Drag-and-drop, simple GUI designer built with LittlevGL.
 * [walv](https://github.com/kaiakz/walv) - Online, WYSIWYG GUI designer for LittlevGL. Cross-platform supported(Even Android and IOS).
-
 
 ### Font utils
 
@@ -294,40 +347,20 @@ Under construct
 * [ttf2mesh](https://github.com/fetisov/ttf2mesh) - Library for TrueType font tessellation. Allows to convert font glyphs to mesh objects without rasterization.
 * [sfam_generator](https://github.com/SL-RU/sfam_generator) - Simple scripts for generating bit fonts for STM32, AVR, Arduino or other MCU.
 
-
 ### Picture manupulation tools
 
 * [lcd-image-converter](https://github.com/riuson/lcd-image-converter) - Tool to create bitmaps and fonts for embedded applications; allows you to create bitmaps and fonts, and transform them to "C" source format for embedded applications.
 
 
 
-## RTOS
-
-* [FreeRTOS](https://github.com/FreeRTOS/FreeRTOS) - FreeRTOS.
-* [Zephyr](https://github.com/zephyrproject-rtos/zephyr) - New generation, scalable, optimized, secure RTOS for multiple hardware architectures.
-* [Apache NuttX](https://github.com/apache/incubator-nuttx) - Apache NuttX is a mature, real-time embedded operating system (RTOS).
-* [scmRTOS](https://github.com/scmrtos/scmrtos) - Tiny Real-Time Preemptive Operating System intended for use with Single-Chip Microcontrollers. scmRTOS is capable to run on tiny uCs with as small amount of RAM as 512 bytes. The RTOS is written on C++ and supports various platforms.
-* [ChibiOS/RT](https://github.com/ChibiOS/ChibiOS) - Compact and fast real-time operating system supporting multiple architectures designed for embedded applications on microcontrollers of 8-, 16-, and 32-bits.
-* [Azure RTOS ThreadX](https://github.com/azure-rtos/threadx) - Advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
-* [eCos](https://ecos.sourceware.org/) - Real-time operating system intended for embedded applications _(Closed source)_.
-* [embox](https://github.com/embox/embox) - Configurable RTOS designed for resource constrained and embedded systems. Embox main idea is using Linux software without Linux.
-* [RIOT](https://github.com/RIOT-OS/RIOT) - Real-time multi-threading operating system that supports a range of devices that are typically found in the Internet of Things (IoT): 8-bit, 16-bit and 32-bit microcontrollers. RIOT is based on the following design principles: energy-efficiency, real-time capabilities, small memory footprint, modularity, and uniform API access, independent of the underlying hardware (this API offers partial POSIX compliance).
-* [Arm Mbed OS](https://github.com/ARMmbed/mbed-os) - Platform operating system designed for the Internet of Things. It includes all the features you need to develop a connected product based on an Arm Cortex-M microcontroller, including security, connectivity, an RTOS and drivers for sensors and I/O devices.
-* [RT-Thread](https://github.com/RT-Thread/rt-thread) - RT-Thread was born in 2006, it is an open source, neutral, and community-based real-time operating system (RTOS). RT-Thread has Standard version and Nano version. For resource-constrained microcontroller (MCU) systems, the NANO kernel version that requires only 3KB Flash and 1.2KB RAM memory resources can be tailored with easy-to-use tools; And for resource-rich IoT devices, RT-Thread can use the on-line software package management tool, together with system configuration tools, to achieve intuitive and rapid modular cutting, seamlessly import rich software packages, thus achieving complex functions like Android's graphical interface and touch sliding effects, smart voice interaction effects, and so on.
-* [distortos](https://github.com/DISTORTEC/distortos) - Object-oriented C++ RTOS for microcontrollers.
-* [R3-OS](https://github.com/r3-os/r3) - Experimental static (μITRON-esque) RTOS for deeply embedded systems, testing the limit of Rust's const eval and generics _(Rust)_.
-* [Tock Embedded OS](https://github.com/tock/tock) - Embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers _(Rust)_.
-
-
-
-## OS
-
-* [citrus](https://github.com/strawberryhacker/citrus) - Bare metal ARM® Cortex®-A5 operating system.
-* [vanilla](https://github.com/strawberryhacker/vanilla) - Bare metal ARM® Cortex®-M7 operating system.
-* 🔝[chaos](https://github.com/strawberryhacker/chaos) - Bare metal multicore ARM® Cortex®-A operating system based on a microkernel architecture.
-* [LK kernel](https://github.com/littlekernel/lk) - The Little Kernel Embedded Operating System is SMP-aware kernel designed for small systems ported to a variety of platforms and cpu architectures.
 
 ## Hardware
+
+* [embedded-driver](https://github.com/InfiniteYuan/embedded-driver-library) - Embedded driver library for various peripheral.
+
+### IO
+
+* [FastIO](https://github.com/xillion/FastIO) - Fast GPIO forked from http://os.mbed.com/users/Sissors/code/FastIO/ .
 
 ### USB
 
@@ -338,22 +371,42 @@ Under construct
 
 * [SFUD](https://github.com/armink/SFUD) - Serial Flash Universal Driver (using JEDEC's SFDP standard serial (SPI) flash universal driver library).
 
-
 ### CAN bus
 
 * [libcanard](https://github.com/UAVCAN/libcanard) - Compact implementation of the UAVCAN/CAN protocol in C for high-integrity real-time embedded systems.
 * [Canbus-Message](https://github.com/ReFil/Canbus-Message) - CAN message assembly and disassembly library for teensy & stm32.
 
 
-## Uncategorized
+
+
+## Others
+
+### Thread management
+
+* [C-Thread-Pool](https://github.com/Pithikos/C-Thread-Pool) - Minimal but powerful thread pool in ANSI C.
+
+### Firmware updates
+
+* [SWupdate](https://github.com/sbabic/swupdate) - Software Update for Embedded Linux Devices to update system in field. SWUpdate supports local and OTA updates, multiple update strategies and it is designed with security in mind.
+
+### Touch Screen
+
+* [tslib](https://github.com/libts/tslib) - Touchscreen access library.
+
+### Time Management Libs
 
 * [TimeLib](https://github.com/geekfactory/TimeLib) - Time management library for embedded devices.
 * [μtz](https://github.com/evq/utz) - Time zone library for tiny embedded systems.
 
-* [tslib](https://github.com/libts/tslib) - Touchscreen access library.
-* [wiselib](https://github.com/ibr-alg/wiselib) - Generic algorithms library for heterogeneous, distributed, embedded systems.
+
+
+
+## Uncategorized
+
 * [Apache NuttX Apps](https://github.com/apache/incubator-nuttx-apps) - Collection of tools, shells, network utilities, libraries, interpreters and can be used with the NuttX RTOS.
-* [util.embedded](https://github.com/malachib/util.embedded) - Useful support code for embedded development.
+
+
+
 
 ## Misc
 
