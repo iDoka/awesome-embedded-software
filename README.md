@@ -26,7 +26,7 @@ URL: https://github.com/iDoka/awesome-embedded-software
 * [Storage](#storage)
   * [Filesystems](#filesystems)
   * [Data Bases](#data-bases)
-  * [Flash](#flash)
+  * [Flash Memory](#flash-memory)
 * [Protocols](#protocols)
   * [Radio Frequency Protocols](#radio-frequency-protocols)
   * [Network protocols](#network-protocols)
@@ -65,7 +65,7 @@ URL: https://github.com/iDoka/awesome-embedded-software
   * [Touch Screen](#touch-screen)
   * [Time Management Libs](#time-management-libs)
 * [Uncategorized](#uncategorized)
-
+* [Misc](#misc)
 
 
 ## Common
@@ -121,7 +121,7 @@ URL: https://github.com/iDoka/awesome-embedded-software
 * [FlashDB](https://github.com/armink/FlashDB) - Ultra-lightweight database that supports key-value and time series data.
 * [PureDB](https://github.com/jedisct1/PureDB) - Portable and tiny set of libraries for creating and reading constant databases.
 
-### Flash
+### Flash Memory
 
 * [EasyFlash](https://github.com/armink/EasyFlash#1-introduction) - Lightweight embedded flash memory library.
 * [FlashAlgo](https://github.com/pyocd/FlashAlgo) - Framework for building Arm Cortex-M "FLM" style flash programming algorithms.
@@ -410,7 +410,8 @@ Computer Vision
 
 ## Misc
 
-Follow this root-repo for lastest updates: https://github.com/iDoka/awesome-embedded-software
+Please follow [this](https://github.com/iDoka/awesome-embedded-software) root-repo for lastest updates.
+
 
 
 ## Contributing
