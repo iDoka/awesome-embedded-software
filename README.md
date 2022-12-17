@@ -77,7 +77,7 @@ URL: https://github.com/iDoka/awesome-embedded-software
 * [ETLCPP](https://github.com/ETLCPP/etl) - Embedded Template Library where the user can declare the size, or maximum size of any object upfront.
 * [eFLL](https://github.com/zerokol/eFLL) - Embedded Fuzzy Logic Library is a standard library for Embedded Systems.
 * [Collection of miscellaneous portable C snippets](https://github.com/nemequ/portable-snippets) - Collection of miscellaneous portable C snippets.
-
+* [sc](https://github.com/tezc/sc) - Portable, stand-alone C libraries and data structures (C99).
 
 
 ## Memory
