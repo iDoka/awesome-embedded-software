@@ -377,7 +377,7 @@ Computer Vision
 
 * [libcanard](https://github.com/UAVCAN/libcanard) - Compact implementation of the UAVCAN/CAN protocol in C for high-integrity real-time embedded systems.
 * [Canbus-Message](https://github.com/ReFil/Canbus-Message) - CAN message assembly and disassembly library for teensy & stm32.
-
+* [CanBoot](https://github.com/Arksine/CanBoot) -  Can Bootloader for MCUs (Currently lpc176x, stm32 and rp2040 MCUs are supported).
 
 
 
