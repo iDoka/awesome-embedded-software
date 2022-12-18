@@ -246,6 +246,7 @@ Computer Vision
 * 🔝[liblithium](https://github.com/teslamotors/liblithium) - Lightweight cryptography library that is portable by design. It requires only standard C99 and does not assume 8-bit addressability, making it suitable for use on some DSP architectures as well as mainstream architectures.
 * 🔝[trezor-crypto](https://github.com/trezor/trezor-firmware/tree/master/crypto) - Heavily optimized cryptography algorithms for embedded Devices.
 * [poly1305-donna](https://github.com/floodyberry/poly1305-donna) -  Implementations of a fast Message-Authentication Code (8 bit, 16 bit, 32 bit and 64 bit multiplies versions).
+* [arduinolibs](https://github.com/rweather/arduinolibs) - Arduino Cryptography Library.
 
 ### Elliptic Curve Cryptography
 
