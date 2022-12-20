@@ -142,11 +142,13 @@ URL: https://github.com/iDoka/awesome-embedded-software
 * [Adafruit's RadioHead](https://github.com/adafruit/RadioHead) - Packet Radio library for embedded microprocessors with [docs](http://www.airspayce.com/mikem/arduino/RadioHead/).
 
 ### Network protocols
+
 * [uIP](https://github.com/adamdunkels/uip) - Very small implementation of the TCP/IP stack that is written by Adam Dunkels.
 * [LwIP](http://savannah.nongnu.org/projects/lwip/) - Small independent implementation of the TCP/IP protocol suite that has been initially developed by Adam Dunkels. lwIP suitable for use in embedded systems with tens of kilobytes of free RAM and room for around 40 kilobytes of code ROM.
 * [HttpClient](https://github.com/nmattisson/HttpClient) - Http Client Library.
 * [httpio](https://github.com/fetisov/httpio) - Stand-Alone Cross Platform request parser and response generator for the HTTP protocol.
 * [PicoTCP](https://github.com/Tubbz-alt/picotcp) - Small-footprint, modular TCP/IP stack designed for embedded systems and the Internet of Things.
+* [RawTCP_Lib](https://github.com/h3xduck/RawTCP_Lib) - C library for creating and using TCP/IP packets with raw network sockets.
 
 ### Web Server
 
