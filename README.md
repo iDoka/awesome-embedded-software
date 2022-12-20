@@ -188,7 +188,7 @@ URL: https://github.com/iDoka/awesome-embedded-software
 * [lwow](https://github.com/MaJerle/lwow) - Lightweight onewire protocol library optimized for UART hardware on embedded systems.
 * [panStamp-SWAP](https://github.com/panStamp/swap) - Simple Wireless Abstract Protocol for any existing ISM radio.
 * [panStamp-uSWAP](https://github.com/panStamp/uswap) - Micro SWAP stack for MCU's connected via UART.
-
+* [MIN](https://github.com/min-protocol/min) - Microcontroller Interconnect Network protocol version 2.0.
 
 
 
