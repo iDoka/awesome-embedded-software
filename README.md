@@ -208,6 +208,7 @@ URL: https://github.com/iDoka/awesome-embedded-software
 * [kalman-clib](https://github.com/sunsided/kalman-clib) - Microcontroller targeted naive Kalman filter implementation in pure C.
 * [libdspl](https://sourceforge.net/p/libdspl-2-0/code/ci/master/tree/) - Cross-platform digital signal processing algorithm library, written in C language.
 * [pocketfft](https://github.com/mreineck/pocketfft) - Heavily modified implementation of FFTPack.
+* [KISS FFT](https://github.com/mborgerding/kissfft) - A mixed-radix Fast Fourier Transform based up on the principle, "Keep It Simple, Stupid".
 
 ### Compression
 
