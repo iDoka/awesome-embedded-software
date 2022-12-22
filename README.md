@@ -1,6 +1,4 @@
-
-# Awesome List Of Sources And Libs For Embedded Systems Development [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
+# Awesome Embedded Resources for Developers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://badgen.net/github/stars/iDoka/awesome-embedded-software)](https://GitHub.com/iDoka/awesome-embedded-software/stargazers/)
 [![GitHub forks](https://badgen.net/github/forks/iDoka/awesome-embedded-software)](https://GitHub.com/iDoka/awesome-embedded-software/network/)
 [![GitHub watchers](https://badgen.net/github/watchers/iDoka/awesome-embedded-software/)](https://GitHub.com/iDoka/awesome-embedded-software/watchers/)
@@ -10,9 +8,9 @@
 [![GitHub latest commit](https://badgen.net/github/last-commit/iDoka/awesome-embedded-software)](https://GitHub.com/iDoka/awesome-embedded-software/commit/)
 -->
 
-There is my attempt to create list of software for Embedded Systems
+> Awesome List Of Sources And Libs For Embedded Systems Development
 
-URL: https://github.com/iDoka/awesome-embedded-software
+Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 
 
 ## Contents
@@ -65,7 +63,6 @@ URL: https://github.com/iDoka/awesome-embedded-software
   * [Touch Screen](#touch-screen)
   * [Time Management Libs](#time-management-libs)
 * [Uncategorized](#uncategorized)
-* [Misc](#misc)
 
 
 ## Common
@@ -413,17 +410,16 @@ Computer Vision
 * [Apache NuttX Apps](https://github.com/apache/incubator-nuttx-apps) - Collection of tools, shells, network utilities, libraries, interpreters and can be used with the NuttX RTOS.
 
 
-
-
-## Misc
-
-Please follow [this](https://github.com/iDoka/awesome-embedded-software) root-repo for lastest updates.
-
+---
 
 
 ## Contributing
 
 * Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
+
+## Footnotes
+
+Please follow [this](https://github.com/iDoka/awesome-embedded-software) root-repo for lastest updates.
 
 
 <!--
