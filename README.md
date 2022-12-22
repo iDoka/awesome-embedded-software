@@ -291,7 +291,6 @@ Computer Vision
 * [distortos](https://github.com/DISTORTEC/distortos) - Object-oriented C++ RTOS for microcontrollers.
 * [R3-OS](https://github.com/r3-os/r3) - Experimental static (μITRON-esque) RTOS for deeply embedded systems, testing the limit of Rust's const eval and generics _(Rust)_.
 * [Tock Embedded OS](https://github.com/tock/tock) - Embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers _(Rust)_.
-* [RIOT](https://github.com/RIOT-OS/RIOT) - A real-time multi-threading operating system that supports a range of devices that are typically found in the Internet of Things (IoT): 8-bit, 16-bit and 32-bit microcontrollers.
 * [dandelion](https://github.com/AntoineSebert/dandelion) - Microkernel Real-Time Operating System in Rust.
 * [MuditaOS](https://github.com/mudita/MuditaOS) - Mobile operating system based on FreeRTOS optimized for E Ink displays - developed for Mudita Pure minimalist phone.
 
