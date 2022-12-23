@@ -8,7 +8,7 @@
 [![GitHub latest commit](https://badgen.net/github/last-commit/iDoka/awesome-embedded-software)](https://GitHub.com/iDoka/awesome-embedded-software/commit/)
 -->
 
-> Awesome List Of Sources And Libs For Embedded Systems Development
+> Awesome List of Sources and Libs for Embedded Systems Development
 
 Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 
@@ -146,6 +146,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [httpio](https://github.com/fetisov/httpio) - Stand-Alone Cross Platform request parser and response generator for the HTTP protocol.
 * [PicoTCP](https://github.com/Tubbz-alt/picotcp) - Small-footprint, modular TCP/IP stack designed for embedded systems and the Internet of Things.
 * [RawTCP_Lib](https://github.com/h3xduck/RawTCP_Lib) - C library for creating and using TCP/IP packets with raw network sockets.
+* [LRNDIS](https://github.com/fetisov/lrndis) - Ethernet over USB (rndis + lwip).
 
 ### Web Server
 
