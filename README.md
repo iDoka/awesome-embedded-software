@@ -112,6 +112,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [SdFat](https://github.com/greiman/SdFat) - Arduino FAT16/FAT32 exFAT Library.
 * [fat32](https://github.com/strawberryhacker/fat32) - Lighweight FAT32 file system written in C with no thirdparty dependencies. It requires a small port which provide functions for initializing, reading and writing to the MSD.
 * [emfat](https://github.com/fetisov/emfat) - FAT32 emulation library for stm32f4.
+* [OpenFAT](https://github.com/tmolteno/openfat) - FAT filesystem implementation for embedded processors.
 
 ### Data Bases
 
