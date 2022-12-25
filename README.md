@@ -420,7 +420,7 @@ Computer Vision
 
 ## Educational
 
-* [Digikey youtube channel][https://www.youtube.com/user/digikey/videos] - rich resources for embedded system design.
+* [Digikey youtube channel](https://www.youtube.com/user/digikey/videos) - rich resources for embedded system design.
 
 ---
 
