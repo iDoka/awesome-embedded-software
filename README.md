@@ -273,7 +273,7 @@ Computer Vision
 * 🔝[chaos](https://github.com/strawberryhacker/chaos) - Bare metal multicore ARM® Cortex®-A operating system based on a microkernel architecture.
 * [LK kernel](https://github.com/littlekernel/lk) - The Little Kernel Embedded Operating System is SMP-aware kernel designed for small systems ported to a variety of platforms and cpu architectures.
 * [QuarkTS](https://github.com/kmilo17pet/QuarkTS) - OS for embedded applications that supports prioritized cooperative scheduling, time control, inter-task communications primitives, hierarchical state machines and CoRoutines.
-
+* [OpenSTLinux](https://www.st.com/en/embedded-software/stm32-mpu-openstlinux-distribution.html) - Linux distribution that can be used with STM32MP1 series of microprocessors.
 
 ### RTOS
 
