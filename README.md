@@ -418,6 +418,9 @@ Computer Vision
 
 * [Apache NuttX Apps](https://github.com/apache/incubator-nuttx-apps) - Collection of tools, shells, network utilities, libraries, interpreters and can be used with the NuttX RTOS.
 
+## Educational
+
+* [Digikey youtube channel][https://www.youtube.com/user/digikey/videos] - rich resources for embedded system design.
 
 ---
 
