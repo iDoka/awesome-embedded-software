@@ -10,6 +10,10 @@
 
 > Awesome List of Sources and Libs for Embedded Systems Development
 
+Implementation of Sources and Libs in this list are specifically suitable for resource-constrained Embedded Systems (low-memory and low-power) like 8-bit, 16-bit and 32-bit microcontrollers.
+This list does'nt cover any linux-related topics (like Raspberry Pi platform or any other SBCs (Single Board Computer)).
+
+
 Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 
 
