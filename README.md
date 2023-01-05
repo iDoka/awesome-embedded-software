@@ -306,6 +306,7 @@ Computer Vision
 ### Menu
 
 * [ProMenu](https://github.com/marcinbor85/ProMenu) - Advanced Generic Application Menu Library. ProMenu Library is used for fast implementing advanced user menus. It supports nesting, numeric settings, text settings, boolean values and events. Library is implemented in C++ with build-in Arduino port, but it is easy to port to different architecture.
+* [BBmenu](https://github.com/vborchsh/bbmenu) - Simple portable CLI menu for misc tasks (it is based on text menus, easily defined in a file).
 
 ### printf
 
