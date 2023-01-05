@@ -169,15 +169,21 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 
 ### Protocol Parsers
 
-* [LwGPS](https://github.com/MaJerle/lwgps) - Lightweight GPS NMEA parser for embedded systems.
-* [LwESP](https://github.com/MaJerle/lwesp) - Lightweight ESP AT commands parser library to communicate with ESP8266 or ESP32 Wi-Fi module using AT commands.
-* [LwGSM](https://github.com/MaJerle/lwgsm) - Library for SIMCOM GSM modules to communicate with AT commands and RTOS from host device.
-* [GSM_Engine](https://github.com/MikroElektronika/GSM_Engine) - Generic AT parser for AT command based modules.
-* [TinyGSM](https://github.com/vshymanskyy/TinyGSM) - Small Arduino library for GSM modules, that just works.
+* [nanoPB](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. It is especially suitable for use in microcontrollers, but fits any memory restricted system.
 
 #### Regular Expressions Parsers
 
 * [RegExp](https://github.com/MaJerle/RegExp) - Regular expressions library for embedded systems.
+
+#### GSM
+
+* [LwGSM](https://github.com/MaJerle/lwgsm) - Library for SIMCOM GSM modules to communicate with AT commands and RTOS from host device.
+* [GSM_Engine](https://github.com/MikroElektronika/GSM_Engine) - Generic AT parser for AT command based modules.
+* [TinyGSM](https://github.com/vshymanskyy/TinyGSM) - Small Arduino library for GSM modules, that just works.
+
+#### GPS
+
+* [LwGPS](https://github.com/MaJerle/lwgps) - Lightweight GPS NMEA parser for embedded systems.
 
 #### AT command parser
 
@@ -186,6 +192,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [gzat](https://github.com/gzhouct/gzat) - Portable AT command parsing library in C++ language.
 * [ATParser](https://github.com/ARMmbed/ATParser) - An mbed-os compatible AT command parser.
 * [atcommander](https://github.com/malachi-iot/atcommander) - Portable C++ library for sending AT commands and parsing their responses.
+* [LwESP](https://github.com/MaJerle/lwesp) - Lightweight ESP AT commands parser library to communicate with ESP8266 or ESP32 Wi-Fi module using AT commands.
 
 #### Various protocols
 
