@@ -11,6 +11,7 @@
 > Awesome List of Sources and Libs for Embedded Systems Development
 
 Implementation of Sources and Libs in this list are specifically suitable for resource-constrained Embedded Systems (low-memory and low-power) like 8-bit, 16-bit and 32-bit microcontrollers.
+
 This list does'nt cover any linux-related topics (like Raspberry Pi platform or any other SBCs (Single Board Computer)).
 
 
@@ -317,6 +318,11 @@ Computer Vision
 * [lwprintf](https://github.com/MaJerle/lwprintf) - Lightweight printf library optimized for embedded systems.
 * [Embedded_Printf](https://github.com/agaelema/Embedded_Printf) - Embedded version of the famous "printf( )" function. The idea is create an simple and efficient library to meet some common needs in embedded systems.
 * [tinyprintf](https://github.com/cjlano/tinyprintf) - Tiny printf and sprintf library for small embedded systems.
+* [xprintf-fp](https://github.com/MarioViara/xprintfc) - Printf for embedded system with floating point support.
+* [xprintf-io](https://github.com/sinferwu/xprintf) - Compact string I/O library. It is ideal for tiny microcontrollers that has insufficient program memory for regular printf function. The recommended use is: writing formatted strings into LCD or UART and for debug/maintenance console.
+* [xprintf](https://github.com/robbesol/xprintf) - Complete fprintf() formatting implementation, suitable for embedded use.
+* [tiny-printf](https://github.com/mpaland/printf) - Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing.
+
 
 ### Logging
 
