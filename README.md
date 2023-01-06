@@ -135,6 +135,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 
 ## Protocols
 
+* [nanoPB](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. It is especially suitable for use in microcontrollers, but fits any memory restricted system.
 * [interchange](https://github.com/trussed-dev/interchange) - Request/response mechanism for embedded development, using atomics.
 * [xmodem](https://github.com/bsail/xmodem) - XMODEM Library for embedded, mobile, iot, and desktop systems.
 * [microrl](https://github.com/Helius/microrl) - Micro read line library for small and embedded devices with basic VT100 support.
@@ -167,9 +168,9 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [libumqtt 2](https://github.com/zhaojh329/libumqtt) - Lightweight and fully asynchronous MQTT client C library based on libev.
 * [Paho MQTT](https://github.com/eclipse/paho.mqtt.embedded-c) - C client library for embedded systems.
 
+
 ### Protocol Parsers
 
-* [nanoPB](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. It is especially suitable for use in microcontrollers, but fits any memory restricted system.
 
 #### Regular Expressions Parsers
 
@@ -314,6 +315,7 @@ Computer Vision
 * [cli](https://github.com/letgo0007/cli) - CLI (Command Line Interface) example build in pure C. Designed for MCU, support block/non-block mode input.
 * [terminal](https://github.com/JingoC/terminal) - Command Line Interface for microcontrollers. Flexible terminal settings allow you to integrate it with any microcontroller, without much effort.
 * [SerialMenu](https://github.com/sonyhome/SerialMenu) - Arduino library to easily create menus on the serial console.
+* [terminal-server](https://github.com/NeoProg2013/terminal-server) - Terminal server for MCU.
 
 ### Menu
 
