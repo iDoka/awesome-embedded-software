@@ -331,6 +331,7 @@ Computer Vision
 * [xprintf-io](https://github.com/sinferwu/xprintf) - Compact string I/O library. It is ideal for tiny microcontrollers that has insufficient program memory for regular printf function. The recommended use is: writing formatted strings into LCD or UART and for debug/maintenance console.
 * [xprintf](https://github.com/robbesol/xprintf) - Complete fprintf() formatting implementation, suitable for embedded use.
 * [tiny-printf](https://github.com/mpaland/printf) - Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing.
+* [tiny-printf new](https://github.com/eyalroz/printf) - Enhanced and maintained fork of `tiny-printf`. Tiny, fast(ish), self-contained and fully loaded printf, sprinf etc.
 
 
 ### Logging
@@ -438,7 +439,7 @@ Computer Vision
 ## Uncategorized
 
 * [Apache NuttX Apps](https://github.com/apache/incubator-nuttx-apps) - Collection of tools, shells, network utilities, libraries, interpreters and can be used with the NuttX RTOS.
-
+* [modm](https://github.com/modm-io/modm) - Barebone embedded C++20 library generator for AVR, SAM and ARM Cortex-M Microcontrollers (supported 3534 devices).
 
 ---
 
