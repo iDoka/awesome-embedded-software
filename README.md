@@ -433,8 +433,8 @@ Computer Vision
 
 * [SDCC](https://sdcc.sourceforge.net/) - Small Device C Compiler (that targets the Intel MCS51 based microprocessors (8031, 8032, 8051, 8052, etc.), Maxim (formerly Dallas) DS80C390 variants, Freescale (formerly Motorola) HC08 based (hc08, s08), Zilog Z80 based MCUs (Z80, Z180, SM83, Rabbit 2000, 2000A, 3000A, TLCS-90), Padauk (pdk14, pdk15) and STMicroelectronics STM8).
 * [tcc](https://bellard.org/tcc/) - Tiny C Compiler (~ 100KB for x86 TCC executable, including C preprocessor, C compiler, assembler and linker).
+* [lcc](https://github.com/drh/lcc) - Retargetable ANSI C Compiler (fork for [ULP in ESP32](https://github.com/jasonful/lcc)).
 * [TinyGo](https://github.com/tinygo-org/tinygo) - Go compiler for small things: Microcontrollers, WebAssembly (WASM/WASI), and command-line tools (Based on LLVM).
-
 
 ## Uncategorized
 
