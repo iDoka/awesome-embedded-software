@@ -342,7 +342,7 @@ Computer Vision
 * [EasyLogger](https://github.com/armink/EasyLogger) - Ultra-lightweight (ROM<1.6K, RAM<0.3k), high-performance C/C++ log library.
 * [trice](https://github.com/rokath/trice) - Super fast and tiny embedded device C printf-like trace code (works also inside interrupts) and real-time PC logging (trace ID visualization).
 * [embedded-diagnostic-logger](https://github.com/binarymaker/embedded-diagnostic-logger) - Lightweight logger framework for small microcontroller based projects. Multilevel log and token based string transfer. 
-
+* [spdlog](https://github.com/gabime/spdlog) - Very fast, header-only/compiled, C++ logging library.
 
 
 
