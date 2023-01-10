@@ -318,6 +318,7 @@ Computer Vision
 * [terminal](https://github.com/JingoC/terminal) - Command Line Interface for microcontrollers. Flexible terminal settings allow you to integrate it with any microcontroller, without much effort.
 * [SerialMenu](https://github.com/sonyhome/SerialMenu) - Arduino library to easily create menus on the serial console.
 * [terminal-server](https://github.com/NeoProg2013/terminal-server) - Terminal server for MCU.
+* [microsh](https://github.com/dimmykar/microsh) - Shell for Small Embedded Devices.
 
 ### Menu
 
