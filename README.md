@@ -266,6 +266,7 @@ Computer Vision
 * [arduinolibs](https://github.com/rweather/arduinolibs) - Arduino Cryptography Library.
 * [tlse](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library.
 * [LibTomCrypt](https://github.com/libtom/libtomcrypt) - Fairly comprehensive, modular and portable cryptographic toolkit that provides developers with a vast array of well known published block ciphers, one-way hash functions, chaining modes, pseudo-random number generators, public key cryptography and a plethora of other routines.
+* [Monocypher](https://github.com/LoupVaillant/Monocypher) - Easy to use, easy to deploy, auditable crypto library written in portable C.
 
 ### Elliptic Curve Cryptography
 
