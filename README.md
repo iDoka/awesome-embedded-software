@@ -380,6 +380,7 @@ Computer Vision
 * [bitmap-OSD-font](https://github.com/frisnit/bitmap-OSD-font) - A 'C' bitmap font for on screen display.
 * [ttf2mesh](https://github.com/fetisov/ttf2mesh) - Library for TrueType font tessellation. Allows to convert font glyphs to mesh objects without rasterization.
 * [sfam_generator](https://github.com/SL-RU/sfam_generator) - Simple scripts for generating bit fonts for STM32, AVR, Arduino or other MCU.
+* [mcufont](https://github.com/mcufont/mcufont) - A font rendering library for microcontrollers.
 
 ### Picture manupulation tools
 
