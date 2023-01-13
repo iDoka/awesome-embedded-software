@@ -12,7 +12,8 @@
 
 Implementation of Sources and Libs in this list are specifically suitable for resource-constrained Embedded Systems (low-memory and low-power) like 8-bit, 16-bit and 32-bit microcontrollers.
 
-This list does'nt cover any linux-related topics (like Raspberry Pi platform or any other SBCs (Single Board Computer)).
+> **Warning**
+> This list does'nt cover any linux-related topics (like Raspberry Pi platform or any other SBCs (Single Board Computer)).
 
 
 Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
@@ -441,6 +442,7 @@ Computer Vision
 * [SDCC](https://sdcc.sourceforge.net/) - Small Device C Compiler (that targets the Intel MCS51 based microprocessors (8031, 8032, 8051, 8052, etc.), Maxim (formerly Dallas) DS80C390 variants, Freescale (formerly Motorola) HC08 based (hc08, s08), Zilog Z80 based MCUs (Z80, Z180, SM83, Rabbit 2000, 2000A, 3000A, TLCS-90), Padauk (pdk14, pdk15) and STMicroelectronics STM8).
 * [tcc](https://bellard.org/tcc/) - Tiny C Compiler (~ 100KB for x86 TCC executable, including C preprocessor, C compiler, assembler and linker).
 * [lcc](https://github.com/drh/lcc) - Retargetable ANSI C Compiler (fork for [ULP in ESP32](https://github.com/jasonful/lcc)).
+* [pcc](http://pcc.ludd.ltu.se/) - Portable C Compiler ([mirror](https://github.com/IanHarvey/pcc)).
 * [TinyGo](https://github.com/tinygo-org/tinygo) - Go compiler for small things: Microcontrollers, WebAssembly (WASM/WASI), and command-line tools (Based on LLVM).
 
 ## Uncategorized
