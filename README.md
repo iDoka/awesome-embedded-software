@@ -65,6 +65,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
   * [CAN bus](#can-bus)
 * [Others](#others)
   * [Thread management](#thread-management)
+  * [Bootloaders](#bootloaders)
   * [Firmware updates](#firmware-updates)
   * [Touch Screen](#touch-screen)
   * [Time Management Libs](#time-management-libs)
@@ -296,7 +297,7 @@ Computer Vision
 
 ### RTOS
 
-* [FreeRTOS™](https://github.com/FreeRTOS/FreeRTOS) - FreeRTOS.
+* 🔝[FreeRTOS™](https://github.com/FreeRTOS/FreeRTOS) - FreeRTOS.
 * [Zephyr](https://github.com/zephyrproject-rtos/zephyr) - New generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 * [Apache NuttX](https://github.com/apache/incubator-nuttx) - Apache NuttX is a mature, real-time embedded operating system (RTOS).
 * [scmRTOS](https://github.com/scmrtos/scmrtos) - Tiny Real-Time Preemptive Operating System intended for use with Single-Chip Microcontrollers. scmRTOS is capable to run on tiny uCs with as small amount of RAM as 512 bytes. The RTOS is written on C++ and supports various platforms.
@@ -423,6 +424,10 @@ Computer Vision
 ### Thread management
 
 * [C-Thread-Pool](https://github.com/Pithikos/C-Thread-Pool) - Minimal but powerful thread pool in ANSI C.
+
+### Bootloaders
+
+* [mcuboot](https://github.com/mcu-tools/mcuboot) - Secure boot for 32-bit Microcontrollers.
 
 ### Firmware updates
 
