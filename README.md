@@ -269,6 +269,7 @@ Computer Vision
 * [LibTomCrypt](https://github.com/libtom/libtomcrypt) - Fairly comprehensive, modular and portable cryptographic toolkit that provides developers with a vast array of well known published block ciphers, one-way hash functions, chaining modes, pseudo-random number generators, public key cryptography and a plethora of other routines.
 * [Monocypher](https://github.com/LoupVaillant/Monocypher) - Easy to use, easy to deploy, auditable crypto library written in portable C.
 * [minicrypt](https://github.com/IanHarvey/minicrypt) - Library of crypto primitives for embedded systems.
+* [tinycrypt](https://github.com/intel/tinycrypt) - Library of cryptographic algorithms provides an implementation for constrained devices of a minimal set of standard cryptography primitives.
 
 ### Elliptic Curve Cryptography
 
