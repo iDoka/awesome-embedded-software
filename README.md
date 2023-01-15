@@ -322,6 +322,7 @@ Computer Vision
 * [SerialMenu](https://github.com/sonyhome/SerialMenu) - Arduino library to easily create menus on the serial console.
 * [terminal-server](https://github.com/NeoProg2013/terminal-server) - Terminal server for MCU.
 * [microsh](https://github.com/dimmykar/microsh) - Shell for Small Embedded Devices.
+* [cmd-l](https://github.com/Lambosaurus/cmd-l) - Command line handler for embedded devices.
 
 ### Menu
 
