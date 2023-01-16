@@ -293,6 +293,7 @@ Computer Vision
 * 🔝[chaos](https://github.com/strawberryhacker/chaos) - Bare metal multicore ARM® Cortex®-A operating system based on a microkernel architecture.
 * [LK kernel](https://github.com/littlekernel/lk) - The Little Kernel Embedded Operating System is SMP-aware kernel designed for small systems ported to a variety of platforms and cpu architectures.
 * [QuarkTS](https://github.com/kmilo17pet/QuarkTS) - OS for embedded applications that supports prioritized cooperative scheduling, time control, inter-task communications primitives, hierarchical state machines and CoRoutines.
+* [micro-ROS](https://micro.ros.org/) - Micro-ROS puts ROS 2 onto microcontrollers.
 
 
 ### RTOS
