@@ -314,6 +314,7 @@ Computer Vision
 * [Tock Embedded OS](https://github.com/tock/tock) - Embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers _(Rust)_.
 * [dandelion](https://github.com/AntoineSebert/dandelion) - Microkernel Real-Time Operating System in Rust.
 * [MuditaOS](https://github.com/mudita/MuditaOS) - Mobile operating system based on FreeRTOS optimized for E Ink displays - developed for Mudita Pure minimalist phone.
+* [µC/OS-III](https://github.com/weston-embedded/uC-OS3) - Preemptive, highly portable, and scalable real-time kernel. Designed for ease of use on a huge number of CPU architectures.
 
 
 ## User Interface
