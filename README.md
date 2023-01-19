@@ -354,7 +354,7 @@ Computer Vision
 * [tiny-printf](https://github.com/mpaland/printf) - Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing.
 * [tiny-printf new](https://github.com/eyalroz/printf) - Enhanced and maintained fork of `tiny-printf`. Tiny, fast(ish), self-contained and fully loaded printf, sprinf etc.
 * [mini-printf](https://github.com/ldoolitt/mini-printf) - Minimal printf() implementation for embedded projects.
-
+* [nanoprintf](https://github.com/charlesnicholson/nanoprintf) - The smallest public printf implementation for its feature set.
 
 ### Logging
 
