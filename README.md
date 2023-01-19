@@ -49,6 +49,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
   * [Random Number Generation](#random-number-generation)
 * [OS](#os)
   * [RTOS](#rtos)
+  * [Event based scheduler](#event-based-scheduler)
 * [User Interface](#user-interface)
   * [CLI](#cli)
   * [Menu](#menu)
@@ -316,6 +317,14 @@ Computer Vision
 * [dandelion](https://github.com/AntoineSebert/dandelion) - Microkernel Real-Time Operating System in Rust.
 * [MuditaOS](https://github.com/mudita/MuditaOS) - Mobile operating system based on FreeRTOS optimized for E Ink displays - developed for Mudita Pure minimalist phone.
 * [µC/OS-III](https://github.com/weston-embedded/uC-OS3) - Preemptive, highly portable, and scalable real-time kernel. Designed for ease of use on a huge number of CPU architectures.
+
+
+### Event based scheduler
+
+* [uevloop](https://github.com/andsmedeiros/uevloop) - Fast and lightweight event loop for embedded platforms.
+* [lwevt](https://github.com/MaJerle/lwevt) - Lightweight event management system for embedded systems.
+* [async](https://github.com/eerimoq/async) - Asynchronous framework in C for systems where low memory usage is important.
+* [Protothreads](http://dunkels.com/adam/pt/) - Provide linear code execution for event-driven systems implemented in C designed for severely memory constrained systems, such as small embedded systems or wireless sensor network nodes.
 
 
 ## User Interface
