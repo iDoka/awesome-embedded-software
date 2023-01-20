@@ -122,7 +122,8 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [fat32](https://github.com/strawberryhacker/fat32) - Lighweight FAT32 file system written in C with no thirdparty dependencies. It requires a small port which provide functions for initializing, reading and writing to the MSD.
 * [emfat](https://github.com/fetisov/emfat) - FAT32 emulation library for stm32f4.
 * [OpenFAT](https://github.com/tmolteno/openfat) - FAT filesystem implementation for embedded processors.
-* [uC-FS](https://github.com/weston-embedded/uC-FS) - A compact, reliable, high-performance, and thread-safe embedded file system for microprocessors, microcontrollers, and DSPs. An optional journaling component provides fail-safe operation while maintaining FAT compatibility.
+* [uC-FS](https://github.com/weston-embedded/uC-FS) - Compact, reliable, high-performance, and thread-safe embedded file system for microprocessors, microcontrollers, and DSPs. An optional journaling component provides fail-safe operation while maintaining FAT compatibility.
+* [littlefs](https://github.com/littlefs-project/littlefs) - Little fail-safe filesystem designed for microcontrollers.
 
 ### Data Bases
 
