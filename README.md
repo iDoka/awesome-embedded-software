@@ -134,6 +134,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 
 * [EasyFlash](https://github.com/armink/EasyFlash#1-introduction) - Lightweight embedded flash memory library.
 * [FlashAlgo](https://github.com/pyocd/FlashAlgo) - Framework for building Arm Cortex-M "FLM" style flash programming algorithms.
+* [FCB](https://docs.zephyrproject.org/latest/services/storage/fcb/fcb.html) - Flash Circular Buffer provides an abstraction through which you can treat flash like a FIFO.
 
 
 
