@@ -229,6 +229,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [pocketfft](https://github.com/mreineck/pocketfft) - Heavily modified implementation of FFTPack.
 * [KISS FFT](https://github.com/mborgerding/kissfft) - Mixed-radix Fast Fourier Transform based up on the principle, "Keep It Simple, Stupid".
 * [CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP) - Embedded compute library for Cortex-M and Cortex-A.
+* [SigLib](https://github.com/Numerix-DSP/siglib) - Digital Signal Processing and Machine Learning Library (x86, Cortex-A and Cortex-M, RISC-V, DSPs from TI, ADI etc).
 
 ### Compression
 
