@@ -444,6 +444,7 @@ Computer Vision
 ### Bootloaders
 
 * [mcuboot](https://github.com/mcu-tools/mcuboot) - Secure boot for 32-bit Microcontrollers.
+* [OpenBLT](https://github.com/feaser/openblt) - Open source bootloader for STM32, XMC, HCS12 and other microcontroller targets. It supports communication interfaces such as: RS232, CAN, USB, TCP/IP and it ships with the easy-to-use [MicroBoot](https://www.feaser.com/openblt/doku.php?id=manual:microboot) PC tool for initiating and monitoring the firmware update. Performing firmware updates directly from an SD-card is also supported.
 
 ### Firmware updates
 
