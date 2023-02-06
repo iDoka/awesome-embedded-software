@@ -469,6 +469,8 @@ Computer Vision
 * [lcc](https://github.com/drh/lcc) - Retargetable ANSI C Compiler (fork for [ULP in ESP32](https://github.com/jasonful/lcc)).
 * [pcc](http://pcc.ludd.ltu.se/) - Portable C Compiler ([mirror](https://github.com/IanHarvey/pcc)).
 * [TinyGo](https://github.com/tinygo-org/tinygo) - Go compiler for small things: Microcontrollers, WebAssembly (WASM/WASI), and command-line tools (Based on LLVM).
+* [chibicc](https://github.com/rui314/chibicc) - Yet another small C compiler that implements most C11 features.
+
 
 ## Uncategorized
 
