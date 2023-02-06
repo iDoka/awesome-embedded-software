@@ -84,6 +84,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [eFLL](https://github.com/zerokol/eFLL) - Embedded Fuzzy Logic Library is a standard library for Embedded Systems.
 * [Collection of miscellaneous portable C snippets](https://github.com/nemequ/portable-snippets) - Collection of miscellaneous portable C snippets.
 * [sc](https://github.com/tezc/sc) - Portable, stand-alone C libraries and data structures (C99).
+* [MicroTBX](https://github.com/feaser/microtbx) - Open source Microcontroller ToolBoX consisting of software components commonly needed in embedded software applications. MicroTBX is written in the C programming language (C99) with MISRA compliance in mind.
 
 
 ## Memory
