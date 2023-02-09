@@ -368,7 +368,7 @@ Computer Vision
 * [trice](https://github.com/rokath/trice) - Super fast and tiny embedded device C printf-like trace code (works also inside interrupts) and real-time PC logging (trace ID visualization).
 * [embedded-diagnostic-logger](https://github.com/binarymaker/embedded-diagnostic-logger) - Lightweight logger framework for small microcontroller based projects. Multilevel log and token based string transfer. 
 * [spdlog](https://github.com/gabime/spdlog) - Very fast, header-only/compiled, C++ logging library.
-
+* [elog](https://github.com/martinribelotta/elog) - Log system is thinked for embedded systems with mininmal resource utilization. The log system is designed to minimize memory compsumition in flash or RAM, enable an eficient in-ram loggin buffer with very efficient storage.
 
 
 ## GUI
