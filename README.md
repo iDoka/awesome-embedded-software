@@ -219,6 +219,8 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 
 * [liquid-fpm](https://github.com/jgaeddert/liquid-fpm) - Software-Defined Radio Fixed-Point Math Library for embedded signal processing.
 * [FPM](https://github.com/MikeLankamp/fpm) - C++ header-only fixed-point math library.
+* [Eigen](https://gitlab.com/libeigen/eigen) - C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
+
 
 ### DSP and Filtering
 
