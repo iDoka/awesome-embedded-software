@@ -362,6 +362,7 @@ Computer Vision
 * [tiny-printf new](https://github.com/eyalroz/printf) - Enhanced and maintained fork of `tiny-printf`. Tiny, fast(ish), self-contained and fully loaded printf, sprinf etc.
 * [mini-printf](https://github.com/ldoolitt/mini-printf) - Minimal printf() implementation for embedded projects.
 * [nanoprintf](https://github.com/charlesnicholson/nanoprintf) - The smallest public printf implementation for its feature set.
+* [fmt](https://github.com/fmtlib/fmt) - Modern formatting library providing a fast and safe alternative to C stdio and C++ iostreams.
 
 ### Logging
 
