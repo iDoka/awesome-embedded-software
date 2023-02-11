@@ -209,7 +209,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [panStamp-SWAP](https://github.com/panStamp/swap) - Simple Wireless Abstract Protocol for any existing ISM radio.
 * [panStamp-uSWAP](https://github.com/panStamp/uswap) - Micro SWAP stack for MCU's connected via UART.
 * [MIN](https://github.com/min-protocol/min) - Microcontroller Interconnect Network protocol version 2.0.
-
+* [libCoAP](https://github.com/obgm/libcoap) - C implementation of a lightweight application-protocol for devices that are constrained their resources such as computing power, RF range, memory, bandwidth, or network packet sizes. This protocol, CoAP, is standardized by the IETF as RFC 7252.
 
 
 
