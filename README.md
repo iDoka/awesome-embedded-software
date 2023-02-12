@@ -406,6 +406,10 @@ Computer Vision
 * [sfam_generator](https://github.com/SL-RU/sfam_generator) - Simple scripts for generating bit fonts for STM32, AVR, Arduino or other MCU.
 * [mcufont](https://github.com/mcufont/mcufont) - A font rendering library for microcontrollers.
 
+#### Fonts and Icons
+
+* [picon](https://github.com/yne/picon) - Pico-icon set with Hackable Ligature (Designed on a 8-grid: to be readable at 8px 16px 24px 32px 48px).
+
 ### Picture manupulation tools
 
 * [lcd-image-converter](https://github.com/riuson/lcd-image-converter) - Tool to create bitmaps and fonts for embedded applications; allows you to create bitmaps and fonts, and transform them to "C" source format for embedded applications.
