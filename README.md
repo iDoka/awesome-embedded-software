@@ -168,6 +168,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [mongoose](https://github.com/cesanta/mongoose) - Embedded Web Server and Embedded Networking Library. It implements event-driven non-blocking APIs for TCP, UDP, HTTP, WebSocket, MQTT.
 * [libevhtp](https://github.com/criticalstack/libevhtp) - Extremely-fast and secure embedded HTTP servers with ease.
 * [libμhttpd](https://github.com/zhaojh329/libuhttpd) - Very flexible, lightweight and fully asynchronous HTTP server library based on libev and http-parser.
+* [sandbird](https://github.com/rxi/sandbird) - Tiny (800sloc) embeddable HTTP server written in C89.
 
 ### MQTT
 
@@ -323,7 +324,7 @@ Computer Vision
 * [Tock Embedded OS](https://github.com/tock/tock) - Embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers _(Rust)_.
 * [dandelion](https://github.com/AntoineSebert/dandelion) - Microkernel Real-Time Operating System in Rust.
 * [MuditaOS](https://github.com/mudita/MuditaOS) - Mobile operating system based on FreeRTOS optimized for E Ink displays - developed for Mudita Pure minimalist phone.
-* [µC/OS-II](https://github.com/weston-embedded/uC-OS2) - Preemptive, highly portable, and scalable real-time kernels. Designed for ease of use on a huge number of CPU architectures. 
+* [µC/OS-II](https://github.com/weston-embedded/uC-OS2) - Preemptive, highly portable, and scalable real-time kernels. Designed for ease of use on a huge number of CPU architectures.
 * [µC/OS-III](https://github.com/weston-embedded/uC-OS3) - Preemptive, highly portable, and scalable real-time kernel. Designed for ease of use on a huge number of CPU architectures.
 
 
@@ -484,6 +485,7 @@ Computer Vision
 
 * [Apache NuttX Apps](https://github.com/apache/incubator-nuttx-apps) - Collection of tools, shells, network utilities, libraries, interpreters and can be used with the NuttX RTOS.
 * [modm](https://github.com/modm-io/modm) - Barebone embedded C++20 library generator for AVR, SAM and ARM Cortex-M Microcontrollers (supported 3534 devices).
+* [cembed](https://github.com/rxi/cembed) - Small utility for embedding files in a C header.
 
 ---
 
