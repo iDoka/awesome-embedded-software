@@ -334,6 +334,7 @@ Computer Vision
 * [lwevt](https://github.com/MaJerle/lwevt) - Lightweight event management system for embedded systems.
 * [async](https://github.com/eerimoq/async) - Asynchronous framework in C for systems where low memory usage is important.
 * [Protothreads](http://dunkels.com/adam/pt/) - Provide linear code execution for event-driven systems implemented in C designed for severely memory constrained systems, such as small embedded systems or wireless sensor network nodes.
+* [EventOS](https://github.com/natnqweb/EventOS) - Event based system designed for Arduino Framework.
 
 
 ## User Interface
