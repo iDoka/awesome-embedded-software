@@ -85,6 +85,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [Collection of miscellaneous portable C snippets](https://github.com/nemequ/portable-snippets) - Collection of miscellaneous portable C snippets.
 * [sc](https://github.com/tezc/sc) - Portable, stand-alone C libraries and data structures (C99).
 * [MicroTBX](https://github.com/feaser/microtbx) - Open source Microcontroller ToolBoX consisting of software components commonly needed in embedded software applications. MicroTBX is written in the C programming language (C99) with MISRA compliance in mind.
+* [umlibc](https://github.com/rhempel/umlibc) - A bare-bones libc for memory constrained systems.
 
 
 ## Memory
@@ -93,6 +94,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 
 * [libmemory](https://github.com/embeddedartistry/libmemory) - Memory management library with implementations for malloc(), free(), and other useful memory management functions.
 * [lwmem](https://github.com/MaJerle/lwmem) - Lightweight dynamic memory manager library for embedded systems with memory constraints. It implements malloc, calloc, realloc and free functions.
+* [umm_malloc](https://github.com/rhempel/umm_malloc) - Memory Manager For Small(ish) Microprocessors.
 
 ### Buffers
 
