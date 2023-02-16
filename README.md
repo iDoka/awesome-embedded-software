@@ -195,6 +195,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 #### GPS
 
 * [LwGPS](https://github.com/MaJerle/lwgps) - Lightweight GPS NMEA parser for embedded systems.
+* [minmea](https://github.com/kosma/minmea) - Lightweight GPS NMEA 0183 parser library in pure C.
 
 #### AT command parser
 
