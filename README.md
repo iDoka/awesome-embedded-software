@@ -54,6 +54,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
   * [CLI](#cli)
   * [Menu](#menu)
   * [printf](#printf)
+  * [scanf](#scanf)
   * [Logging](#logging)
 * [GUI](#gui)
   * [GUI editors](#gui-editors)
@@ -369,6 +370,11 @@ Computer Vision
 * [mini-printf](https://github.com/ldoolitt/mini-printf) - Minimal printf() implementation for embedded projects.
 * [nanoprintf](https://github.com/charlesnicholson/nanoprintf) - The smallest public printf implementation for its feature set.
 * [fmt](https://github.com/fmtlib/fmt) - Modern formatting library providing a fast and safe alternative to C stdio and C++ iostreams.
+
+### scanf
+
+* [scanf](https://github.com/hisahi/scanf) - Portable implementation of scanf input functions in C.
+* [ft_scanf](https://github.com/cbarbier/ft_scanf) - Simple scanf %s %c %d.
 
 ### Logging
 
