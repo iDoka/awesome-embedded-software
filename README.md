@@ -469,6 +469,7 @@ Computer Vision
 
 ### Firmware updates
 
+* [UF2](https://github.com/microsoft/uf2) - USB Flashing Format specification for flashing microcontrollers over MSC (Mass Storage Class; aka removable flash drive).
 * [SWupdate](https://github.com/sbabic/swupdate) - Software Update for Embedded Linux Devices to update system in field. SWUpdate supports local and OTA updates, multiple update strategies and it is designed with security in mind.
 
 ### Touch Screen
