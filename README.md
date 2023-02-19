@@ -87,6 +87,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [sc](https://github.com/tezc/sc) - Portable, stand-alone C libraries and data structures (C99).
 * [MicroTBX](https://github.com/feaser/microtbx) - Open source Microcontroller ToolBoX consisting of software components commonly needed in embedded software applications. MicroTBX is written in the C programming language (C99) with MISRA compliance in mind.
 * [umlibc](https://github.com/rhempel/umlibc) - A bare-bones libc for memory constrained systems.
+* [µClibc-ng](https://github.com/wbx-github/uclibc-ng) - Embedded C Library.
 
 
 ## Memory
