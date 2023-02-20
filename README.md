@@ -466,6 +466,7 @@ Computer Vision
 
 * [mcuboot](https://github.com/mcu-tools/mcuboot) - Secure boot for 32-bit Microcontrollers.
 * [OpenBLT](https://github.com/feaser/openblt) - Open source bootloader for STM32, XMC, HCS12 and other microcontroller targets. It supports communication interfaces such as: RS232, CAN, USB, TCP/IP and it ships with the easy-to-use [MicroBoot](https://www.feaser.com/openblt/doku.php?id=manual:microboot) PC tool for initiating and monitoring the firmware update. Performing firmware updates directly from an SD-card is also supported.
+* [TinyUF2](https://github.com/adafruit/tinyuf2) - Bootloader based on TinyUSB for embedded devices such as ESP32, STM32 and iMX RT10xx.
 
 ### Firmware updates
 
