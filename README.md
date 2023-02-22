@@ -406,6 +406,7 @@ Computer Vision
 * [MakiseGUI](https://github.com/SL-RU/MakiseGUI) - Graphics and GUI library for embed systems.
 * [emGUI](https://github.com/libEmGUI/emGUI) - Simple C UI Library for embedded platforms.
 * [micromenu-v2](https://github.com/abcminiuser/micromenu-v2) - Tiny text-orientated menu library in C for embedded use.
+* [HAGL](https://github.com/tuupola/hagl) - Lightweight Hardware Agnostic Graphics Library for embedded devices. It supports basic geometric primitives, bitmaps, blitting, fixed width fonts. Library tries to stay lightweight but targets reasonably powerful microchips such as ESP32. There is no dynamic allocation.
 
 ### GUI editors
 
