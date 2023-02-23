@@ -88,6 +88,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [MicroTBX](https://github.com/feaser/microtbx) - Open source Microcontroller ToolBoX consisting of software components commonly needed in embedded software applications. MicroTBX is written in the C programming language (C99) with MISRA compliance in mind.
 * [umlibc](https://github.com/rhempel/umlibc) - A bare-bones libc for memory constrained systems.
 * [µClibc-ng](https://github.com/wbx-github/uclibc-ng) - Embedded C Library.
+* [HWlib](https://github.com/wovo/hwlib) - C++ OO micro-controller library for close-to-the-hardware programming.
 
 
 ## Memory
