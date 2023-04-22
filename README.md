@@ -240,6 +240,8 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [KISS FFT](https://github.com/mborgerding/kissfft) - Mixed-radix Fast Fourier Transform based up on the principle, "Keep It Simple, Stupid".
 * [CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP) - Embedded compute library for Cortex-M and Cortex-A.
 * [SigLib](https://github.com/Numerix-DSP/siglib) - Digital Signal Processing and Machine Learning Library (x86, Cortex-A and Cortex-M, RISC-V, DSPs from TI, ADI etc).
+* [lsp-dsp-lib](https://github.com/lsp-plugins/lsp-dsp-lib) - DSP library for digital signal processing provides set of functions that perform SIMD-optimized computing on several hardware architectures. All functions currently operate on IEEE-754 single-precision floating-point numbers.
+
 
 ### Compression
 
