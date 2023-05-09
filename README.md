@@ -289,6 +289,8 @@ Computer Vision
 * [Monocypher](https://github.com/LoupVaillant/Monocypher) - Easy to use, easy to deploy, auditable crypto library written in portable C.
 * [minicrypt](https://github.com/IanHarvey/minicrypt) - Library of crypto primitives for embedded systems.
 * [tinycrypt](https://github.com/intel/tinycrypt) - Library of cryptographic algorithms provides an implementation for constrained devices of a minimal set of standard cryptography primitives.
+* [tiny-AES-c](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C.
+* [µAES](https://github.com/polfosol/micro-AES) - Lightweight, highly flexible, portable and ANSI-C compatible implementation of the AES encryption and block cipher modes.
 
 ### Elliptic Curve Cryptography
 
