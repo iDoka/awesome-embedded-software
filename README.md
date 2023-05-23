@@ -167,6 +167,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [PicoTCP](https://github.com/Tubbz-alt/picotcp) - Small-footprint, modular TCP/IP stack designed for embedded systems and the Internet of Things.
 * [RawTCP_Lib](https://github.com/h3xduck/RawTCP_Lib) - C library for creating and using TCP/IP packets with raw network sockets.
 * [LRNDIS](https://github.com/fetisov/lrndis) - Ethernet over USB (rndis + lwip).
+* [CycloneTCP](https://github.com/Oryx-Embedded/CycloneTCP) - A dual IPv4/IPv6 stack dedicated to embedded applications. The stack is distributed as a full ANSI C and highly maintainable source code ([examples](https://www.oryx-embedded.com/download/CycloneTCP_SSL_SSH_CRYPTO_Open_2_2_4.zip) not included in github's sources).
 
 ### Web Server
 
