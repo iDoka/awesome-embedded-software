@@ -292,6 +292,7 @@ Computer Vision
 * [tinycrypt](https://github.com/intel/tinycrypt) - Library of cryptographic algorithms provides an implementation for constrained devices of a minimal set of standard cryptography primitives.
 * [tiny-AES-c](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C.
 * [µAES](https://github.com/polfosol/micro-AES) - Lightweight, highly flexible, portable and ANSI-C compatible implementation of the AES encryption and block cipher modes.
+* [CycloneCRYPTO](https://github.com/Oryx-Embedded/CycloneCRYPTO) - A cryptographic toolkit designed for use in embedded systems. It provides a comprehensive set of cryptographic primitives (hash functions, stream and block ciphers, public key cryptography) that can be used to add security features to your embedded application.
 
 ### Elliptic Curve Cryptography
 
