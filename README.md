@@ -502,6 +502,7 @@ Computer Vision
 * [pcc](http://pcc.ludd.ltu.se/) - Portable C Compiler ([mirror](https://github.com/IanHarvey/pcc)).
 * [TinyGo](https://github.com/tinygo-org/tinygo) - Go compiler for small things: Microcontrollers, WebAssembly (WASM/WASI), and command-line tools (Based on LLVM).
 * [chibicc](https://github.com/rui314/chibicc) - Yet another small C compiler that implements most C11 features.
+* [rvcc](https://github.com/mausimus/rvcc) - Bootstrapped C compiler for 32-bit RISC-V and ARM ISAs (generates executable Linux ELF binaries for RV32IM and ARMv7).
 
 
 ## Uncategorized
