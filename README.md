@@ -299,6 +299,7 @@ Computer Vision
 * [salty](https://github.com/ycrypto/salty) - Ed25519 signatures with assembly optimizations for Cortex-M4 and Cortex-M33.
 * [micro-ecc](https://github.com/kmackay/micro-ecc) - ECDH and ECDSA for 8-bit, 32-bit, and 64-bit processors.
 * [libuecc](https://github.com/NeoRaider/libuecc) - Very small generic-purpose Elliptic Curve Cryptography library compatible with Ed25519.
+* [c25519-and-ed25519](https://dlbeer.co.nz/oss/c25519.html) - Curve25519 and Ed25519 for low-memory systems (Curve25519 scalar multiplication uses less than half a kB of peak stack usage).
 
 ### Random Number Generation
 
