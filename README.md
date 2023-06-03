@@ -260,6 +260,7 @@ Artificial Intelligence and Machine Learning
 * [nnom](https://github.com/majianjia/nnom) - Neural Network on Microcontroller (NNoM) is a high-level inference Neural Network library specifically for microcontrollers.
 * [caffepresso](https://github.com/gplhegde/caffepresso) - Optimized Library for Deep Learning on Embedded Accelerator-based platforms.
 * [libonnx](https://github.com/xboot/libonnx) - Lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
+* [TinyMaix](https://github.com/sipeed/TinyMaix) - A tiny inference Neural Network library specifically for microcontrollers (TinyML). Designed to follow the rule: Easy-to-Use > Portable > Speed > Space. 
 
 ### CV
 
