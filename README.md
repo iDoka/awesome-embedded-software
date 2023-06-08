@@ -130,7 +130,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [OpenFAT](https://github.com/tmolteno/openfat) - FAT filesystem implementation for embedded processors.
 * [uC-FS](https://github.com/weston-embedded/uC-FS) - Compact, reliable, high-performance, and thread-safe embedded file system for microprocessors, microcontrollers, and DSPs. An optional journaling component provides fail-safe operation while maintaining FAT compatibility.
 * [littlefs](https://github.com/littlefs-project/littlefs) - Little fail-safe filesystem designed for microcontrollers.
-* [UFFS](https://github.com/rickyzheng/uffs) - Filesystem for NAND devices with wear leveling and good fault tolerance
+* [UFFS](https://github.com/rickyzheng/uffs) - Filesystem for NAND devices with wear leveling and good fault tolerance.
 
 ### Data Bases
 
