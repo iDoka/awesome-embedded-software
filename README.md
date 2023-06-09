@@ -71,6 +71,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
   * [Firmware updates](#firmware-updates)
   * [Touch Screen](#touch-screen)
   * [Time Management Libs](#time-management-libs)
+  * [Embeddable Scripts and Languages](embeddable-scripts-and-languages)
 * [Compilers](#compilers)
 * [Uncategorized](#uncategorized)
 
@@ -497,6 +498,9 @@ Computer Vision
 * [TimeLib](https://github.com/geekfactory/TimeLib) - Time management library for embedded devices.
 * [μtz](https://github.com/evq/utz) - Time zone library for tiny embedded systems.
 
+### Embeddable Scripts and Languages
+
+* [little](https://github.com/Beariish/little) - A small, fast, easily embeddable language implemented in a single .c file.
 
 
 ## Compilers
