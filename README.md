@@ -71,7 +71,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
   * [Firmware updates](#firmware-updates)
   * [Touch Screen](#touch-screen)
   * [Time Management Libs](#time-management-libs)
-  * [Embeddable Scripts and Languages](embeddable-scripts-and-languages)
+  * [Embeddable Scripts and Languages](#embeddable-scripts-and-languages)
 * [Compilers](#compilers)
 * [Uncategorized](#uncategorized)
 
