@@ -367,6 +367,7 @@ Computer Vision
 * [terminal-server](https://github.com/NeoProg2013/terminal-server) - Terminal server for MCU.
 * [microsh](https://github.com/dimmykar/microsh) - Shell for Small Embedded Devices.
 * [cmd-l](https://github.com/Lambosaurus/cmd-l) - Command line handler for embedded devices.
+* [embedded-cli](https://github.com/funbiscuit/embedded-cli) - Single-header CLI with history and autocompletion for embedded systems.
 
 ### Menu
 
