@@ -409,7 +409,6 @@ Computer Vision
 * [EasyGUI](https://github.com/MaJerle/EasyGUI) - EasyGUI for embedded systems (highly optimized for STM32).
 * [TouchGFX](https://www.touchgfx.com/product/overview/) - User-friendly graphical C++ tool integrated as a free tool in the STM32 ecosystem.
 * [eGUI](https://github.com/NXPmicro/eGUI) - An eGUI embedded graphic library.
-* [Embedded-graphics](https://github.com/embedded-graphics/embedded-graphics) - 2D graphics library that is focused on memory constrained embedded devices.
 * [ESLowGraphics](https://github.com/errorcalc/ESLowGraphicsLibrary) - Low level software graphics library by ErrorSoft (ESLGL).
 * [ftk](https://github.com/prife/ftk) - GUI library for embedded system.
 * [u8glib](https://github.com/pabigot/u8glib) - Universal Graphics Library for 8 Bit Embedded Systems.
