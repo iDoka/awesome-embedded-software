@@ -368,7 +368,7 @@ Computer Vision
 * [microsh](https://github.com/dimmykar/microsh) - Shell for Small Embedded Devices.
 * [cmd-l](https://github.com/Lambosaurus/cmd-l) - Command line handler for embedded devices.
 * [embedded-cli](https://github.com/funbiscuit/embedded-cli) - Single-header CLI with history and autocompletion for embedded systems.
-* [microshell](https://github.com/marcinbor85/microshell) - Lightweight pure C implementation of virtual shell, compatible with VT100 terminal. Support root tree, run-time mounting paths, global commands, and much more
+* [microshell](https://github.com/marcinbor85/microshell) - Lightweight pure C implementation of virtual shell, compatible with VT100 terminal. Support root tree, run-time mounting paths, global commands, and much more.
 
 ### Menu
 
