@@ -424,6 +424,8 @@ Computer Vision
 * [micromenu-v2](https://github.com/abcminiuser/micromenu-v2) - Tiny text-orientated menu library in C for embedded use.
 * [HAGL](https://github.com/tuupola/hagl) - Lightweight Hardware Agnostic Graphics Library for embedded devices. It supports basic geometric primitives, bitmaps, blitting, fixed width fonts. Library tries to stay lightweight but targets reasonably powerful microchips such as ESP32. There is no dynamic allocation.
 * [Embedded-graphics](https://github.com/embedded-graphics/embedded-graphics) - 2D graphics library that is focused on memory constrained embedded devices to draw graphics without using any buffers (Rust).
+* [LovyanGFX](https://github.com/lovyan03/LovyanGFX/) - Display (LCD / OLED / EPD) graphics library (for ESP32 SPI, I2C, 8bitParallel / ESP8266 SPI, I2C / RP2040 SPI / ATSAMD51 SPI and more).
+
 
 ### GUI editors
 
