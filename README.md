@@ -140,6 +140,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [PureDB](https://github.com/jedisct1/PureDB) - Portable and tiny set of libraries for creating and reading constant databases.
 * [UnQLite](https://github.com/symisc/unqlite) - Embedded NoSQL, Transactional Database Engine.
 * [Vedis](https://github.com/symisc/vedis) - Embedded Implementation of Redis (an embeddable datastore C library built with over 70 commands similar in concept to Redis but without the networking layer since Vedis run in the same process of the host application).
+* [microkvs](https://github.com/azonenberg/microkvs) - Tiny key-value store for persisting configuration data on microcontrollers.
 
 ### Flash Memory
 
