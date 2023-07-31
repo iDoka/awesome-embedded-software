@@ -346,6 +346,7 @@ Computer Vision
 * [MuditaOS](https://github.com/mudita/MuditaOS) - Mobile operating system based on FreeRTOS optimized for E Ink displays - developed for Mudita Pure minimalist phone.
 * [µC/OS-II](https://github.com/weston-embedded/uC-OS2) - Preemptive, highly portable, and scalable real-time kernels. Designed for ease of use on a huge number of CPU architectures.
 * [µC/OS-III](https://github.com/weston-embedded/uC-OS3) - Preemptive, highly portable, and scalable real-time kernel. Designed for ease of use on a huge number of CPU architectures.
+* [QP/C](https://github.com/QuantumLeaps/qpc) - Real-time embedded framework/RTOS for embedded systems based on active objects (actors) and hierarchical state machines (FuSa, MISRA-C 2023 compliance).
 
 
 ### Event based scheduler
