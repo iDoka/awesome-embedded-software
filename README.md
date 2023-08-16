@@ -347,6 +347,7 @@ Computer Vision
 * [µC/OS-II](https://github.com/weston-embedded/uC-OS2) - Preemptive, highly portable, and scalable real-time kernels. Designed for ease of use on a huge number of CPU architectures.
 * [µC/OS-III](https://github.com/weston-embedded/uC-OS3) - Preemptive, highly portable, and scalable real-time kernel. Designed for ease of use on a huge number of CPU architectures.
 * [QP/C](https://github.com/QuantumLeaps/qpc) - Real-time embedded framework/RTOS for embedded systems based on active objects (actors) and hierarchical state machines (FuSa, MISRA-C 2023 compliance).
+* [Quite Ok RTOS](https://github.com/arabine/qortos) - Tickless, minimal, 500 lines of code, 7 functions.
 
 
 ### Event based scheduler
