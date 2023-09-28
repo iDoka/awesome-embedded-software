@@ -158,7 +158,6 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [nanoPB](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. It is especially suitable for use in microcontrollers, but fits any memory restricted system.
 * [interchange](https://github.com/trussed-dev/interchange) - Request/response mechanism for embedded development, using atomics.
 * [xmodem](https://github.com/bsail/xmodem) - XMODEM Library for embedded, mobile, iot, and desktop systems.
-* [microrl](https://github.com/Helius/microrl) - Micro read line library for small and embedded devices with basic VT100 support.
 * [TinyFrame](https://github.com/MightyPork/TinyFrame) - Simple library for building and parsing data frames for serial interfaces (like UART / RS232).
 * [nanoMODBUS](https://github.com/debevv/nanoMODBUS) - A compact MODBUS RTU/TCP C library for embedded/microcontrollers.
 
@@ -375,6 +374,7 @@ Computer Vision
 * [cmd-l](https://github.com/Lambosaurus/cmd-l) - Command line handler for embedded devices.
 * [embedded-cli](https://github.com/funbiscuit/embedded-cli) - Single-header CLI with history and autocompletion for embedded systems.
 * [microshell](https://github.com/marcinbor85/microshell) - Lightweight pure C implementation of virtual shell, compatible with VT100 terminal. Support root tree, run-time mounting paths, global commands, and much more.
+* [microrl](https://github.com/Helius/microrl) - Micro read line library for small and embedded devices with basic VT100 support.
 
 ### Menu
 
