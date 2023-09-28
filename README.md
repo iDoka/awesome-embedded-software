@@ -158,6 +158,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [xmodem](https://github.com/bsail/xmodem) - XMODEM Library for embedded, mobile, iot, and desktop systems.
 * [microrl](https://github.com/Helius/microrl) - Micro read line library for small and embedded devices with basic VT100 support.
 * [TinyFrame](https://github.com/MightyPork/TinyFrame) - Simple library for building and parsing data frames for serial interfaces (like UART / RS232).
+* [nanoMODBUS](https://github.com/debevv/nanoMODBUS) - A compact MODBUS RTU/TCP C library for embedded/microcontrollers.
 
 ### Radio Frequency Protocols
 
