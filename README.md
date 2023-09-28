@@ -380,6 +380,8 @@ Computer Vision
 
 * [ProMenu](https://github.com/marcinbor85/ProMenu) - Advanced Generic Application Menu Library. ProMenu Library is used for fast implementing advanced user menus. It supports nesting, numeric settings, text settings, boolean values and events. Library is implemented in C++ with build-in Arduino port, but it is easy to port to different architecture.
 * [BBmenu](https://github.com/vborchsh/bbmenu) - Simple portable CLI menu for misc tasks (it is based on text menus, easily defined in a file).
+* [micromenu-v2](https://github.com/abcminiuser/micromenu-v2) - Tiny text-orientated menu library in C for embedded use.
+
 
 ### printf
 
@@ -428,7 +430,6 @@ Computer Vision
 * [AFGUI](https://github.com/AndreyFursov/AFGUI) - Embedded GUI Library.
 * [MakiseGUI](https://github.com/SL-RU/MakiseGUI) - Graphics and GUI library for embed systems.
 * [emGUI](https://github.com/libEmGUI/emGUI) - Simple C UI Library for embedded platforms.
-* [micromenu-v2](https://github.com/abcminiuser/micromenu-v2) - Tiny text-orientated menu library in C for embedded use.
 * [HAGL](https://github.com/tuupola/hagl) - Lightweight Hardware Agnostic Graphics Library for embedded devices. It supports basic geometric primitives, bitmaps, blitting, fixed width fonts. Library tries to stay lightweight but targets reasonably powerful microchips such as ESP32. There is no dynamic allocation.
 * [Embedded-graphics](https://github.com/embedded-graphics/embedded-graphics) - 2D graphics library that is focused on memory constrained embedded devices to draw graphics without using any buffers (Rust).
 * [LovyanGFX](https://github.com/lovyan03/LovyanGFX/) - Display (LCD / OLED / EPD) graphics library (for ESP32 SPI, I2C, 8bitParallel / ESP8266 SPI, I2C / RP2040 SPI / ATSAMD51 SPI and more).
