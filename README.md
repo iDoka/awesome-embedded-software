@@ -391,6 +391,7 @@ Computer Vision
 * [mini-printf](https://github.com/ldoolitt/mini-printf) - Minimal printf() implementation for embedded projects.
 * [nanoprintf](https://github.com/charlesnicholson/nanoprintf) - The smallest public printf implementation for its feature set.
 * [fmt](https://github.com/fmtlib/fmt) - Modern formatting library providing a fast and safe alternative to C stdio and C++ iostreams.
+* [printf](https://github.com/eyalroz/printf) - Standalone printf/sprintf formatted printing function library.
 
 ### scanf
 
