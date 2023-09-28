@@ -100,6 +100,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [libmemory](https://github.com/embeddedartistry/libmemory) - Memory management library with implementations for malloc(), free(), and other useful memory management functions.
 * [lwmem](https://github.com/MaJerle/lwmem) - Lightweight dynamic memory manager library for embedded systems with memory constraints. It implements malloc, calloc, realloc and free functions.
 * [umm_malloc](https://github.com/rhempel/umm_malloc) - Memory Manager For Small(ish) Microprocessors.
+* [o1heap](https://github.com/pavel-kirienko/o1heap) - A highly deterministic constant-complexity memory allocator designed for hard real-time high-integrity embedded systems.
 
 ### Buffers
 
