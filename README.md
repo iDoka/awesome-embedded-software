@@ -91,6 +91,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [µClibc-ng](https://github.com/wbx-github/uclibc-ng) - Embedded C Library.
 * [Embedded Artistry's libc](https://github.com/embeddedartistry/libc) - A stripped-down C standard library implementation targeted for microcontroller-based embedded systems. Reduced set of functionality (due to embedded nature). Chosen for portability and quick bringup.
 * [HWlib](https://github.com/wovo/hwlib) - C++ OO micro-controller library for close-to-the-hardware programming.
+* [ctl](https://github.com/rurban/ctl) - C Container Template Library. There is a fast compiling, type safe, header only, template-like container library for ISO C99/C11.
 
 
 ## Memory
