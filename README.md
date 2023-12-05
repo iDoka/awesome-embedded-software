@@ -397,7 +397,7 @@ Computer Vision
 * [mini-printf](https://github.com/ldoolitt/mini-printf) - Minimal printf() implementation for embedded projects.
 * [nanoprintf](https://github.com/charlesnicholson/nanoprintf) - The smallest public printf implementation for its feature set.
 * [fmt](https://github.com/fmtlib/fmt) - Modern formatting library providing a fast and safe alternative to C stdio and C++ iostreams.
-* [emio](https://github.com/Viatorus/emio) - std::format like formatting with very small binary footprint using C++20
+* [emio](https://github.com/Viatorus/emio) - std::format like formatting with very small binary footprint using C++20.
 
 ### scanf
 
