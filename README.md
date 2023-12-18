@@ -113,6 +113,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 
 * [LwRB](https://github.com/MaJerle/lwrb) - Lightweight generic ring buffer manager library.
 * [RingBuffer](https://github.com/wizard97/ArduinoRingBuffer) - Simple Interrupt Safe Ring (Circular) Buffer Queuing Library for Embedded platforms.
+* [lfbb](https://github.com/DNedic/lfbb) - Lock-free bipartite buffer, a variant of the ring buffer which can always provide contigous space inside the buffer for reading, writing or modifying the data in-place.
 
 ### FIFO
 
