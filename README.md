@@ -259,6 +259,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [heatshrink](https://github.com/atomicobject/heatshrink) - Data compression library for embedded/real-time systems.
 * [shoco](https://github.com/Ed-von-Schleck/shoco) - C library to compress and decompress short strings. It is very fast and easy to use. The default compression model is optimized for english words, but you can generate your own compression model.
 * [ECL](https://github.com/Nonoum/ECL) - Embedded Compression Library is not only for embedded, it is mostly oriented for small data and has special optimized low-memory modes for restricted environments.
+* [Unishox2](https://github.com/siara-cc/Unishox2) - Hybrid encoder for Short Unicode Strings (Unishox provides the best compression for short text and not to be compared with general purpose compression algorithm like lz4, snappy, lzma, brottli and zstd).
 
 ### AI ML
 
