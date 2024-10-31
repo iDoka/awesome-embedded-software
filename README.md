@@ -162,6 +162,9 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [xmodem](https://github.com/bsail/xmodem) - XMODEM Library for embedded, mobile, iot, and desktop systems.
 * [TinyFrame](https://github.com/MightyPork/TinyFrame) - Simple library for building and parsing data frames for serial interfaces (like UART / RS232).
 * [nanoMODBUS](https://github.com/debevv/nanoMODBUS) - A compact MODBUS RTU/TCP C library for embedded/microcontrollers.
+* [COBS](https://pypi.org/project/cobs/) - a method of encoding a packet of bytes into a form that contains no bytes with value zero (0x00).
+* [rcobs](https://github.com/Dirbaio/rcobs?tab=readme-ov-file) - Reverse-COBS encoding (rCOBS) is a variant of [COBS encoding](https://en.wikipedia.org/wiki/Consistent_Overhead_Byte_Stuffing) designed to allow encoding with zero lookahead.
+* [TCOBS](https://github.com/rokath/tcobs) - short messages compression with COBS framing using implicit run-length-encoding, optimized for data containing statistically a bit more 0 and FF bytes in a row, as data often carry 16, 32 or 64 bit numbers with small values.
 
 ### Radio Frequency Protocols
 
@@ -259,8 +262,10 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 
 * [heatshrink](https://github.com/atomicobject/heatshrink) - Data compression library for embedded/real-time systems.
 * [shoco](https://github.com/Ed-von-Schleck/shoco) - C library to compress and decompress short strings. It is very fast and easy to use. The default compression model is optimized for english words, but you can generate your own compression model.
+* [SMAZ](https://github.com/antirez/smaz) - compression for very small strings.
 * [ECL](https://github.com/Nonoum/ECL) - Embedded Compression Library is not only for embedded, it is mostly oriented for small data and has special optimized low-memory modes for restricted environments.
 * [Unishox2](https://github.com/siara-cc/Unishox2) - Hybrid encoder for Short Unicode Strings (Unishox provides the best compression for short text and not to be compared with general purpose compression algorithm like lz4, snappy, lzma, brottli and zstd).
+* [TCOBS](https://github.com/rokath/tcobs) - short messages compression with COBS framing using implicit run-length-encoding, optimized for data containing statistically a bit more 0 and FF bytes in a row, as data often carry 16, 32 or 64 bit numbers with small values.
 
 ### AI ML
 
