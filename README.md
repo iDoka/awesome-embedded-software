@@ -162,7 +162,6 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [xmodem](https://github.com/bsail/xmodem) - XMODEM Library for embedded, mobile, iot, and desktop systems.
 * [TinyFrame](https://github.com/MightyPork/TinyFrame) - Simple library for building and parsing data frames for serial interfaces (like UART / RS232).
 * [nanoMODBUS](https://github.com/debevv/nanoMODBUS) - A compact MODBUS RTU/TCP C library for embedded/microcontrollers.
-* [COBS](https://pypi.org/project/cobs/) - A method of encoding a packet of bytes into a form that contains no bytes with value zero (0x00).
 * [rcobs](https://github.com/Dirbaio/rcobs) - Reverse-COBS encoding (rCOBS) is a variant of [COBS encoding](https://en.wikipedia.org/wiki/Consistent_Overhead_Byte_Stuffing) designed to allow encoding with zero lookahead.
 
 
