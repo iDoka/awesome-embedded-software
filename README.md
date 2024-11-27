@@ -93,6 +93,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [HWlib](https://github.com/wovo/hwlib) - C++ OO micro-controller library for close-to-the-hardware programming.
 * [ctl](https://github.com/rurban/ctl) - C Container Template Library. There is a fast compiling, type safe, header only, template-like container library for ISO C99/C11.
 * [FSMLang](https://github.com/FSMLang/FSMLang) - State machine description language with C language generator. Supports flat and hierarchical machines and event subsystem.
+* [WTX](https://github.com/c410-f3r/wtx) - A set of tools for web development
 
 
 ## Memory
