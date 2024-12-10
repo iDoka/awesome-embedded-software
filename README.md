@@ -544,6 +544,7 @@ Computer Vision
 * [modm](https://github.com/modm-io/modm) - Barebone embedded C++20 library generator for AVR, SAM and ARM Cortex-M Microcontrollers (supported 3534 devices).
 * [cembed](https://github.com/rxi/cembed) - Small utility for embedding files in a C header.
 * [incbin](https://github.com/graphitemaster/incbin) - One-header library for compile-time embedding binary and textual files.
+* [WTX](https://github.com/c410-f3r/wtx) - A set of web-oriented tools.
 
 ---
 
