@@ -493,7 +493,8 @@ Computer Vision
 * [Canbus-Message](https://github.com/ReFil/Canbus-Message) - CAN message assembly and disassembly library for teensy & stm32.
 * [CanBoot](https://github.com/Arksine/CanBoot) -  Can Bootloader for MCUs (Currently lpc176x, stm32 and rp2040 MCUs are supported).
 
-
+* [ECU-Bypass-Framework-XRS9000](https://github.com/OpenECU-Labs/ECU-Bypass-Framework-XRS9000) - Advanced MitM hardware abstraction layer for CAN-FD/UDS protocol interception and real-time checksum correction.
+* 
 
 ## Others
 
