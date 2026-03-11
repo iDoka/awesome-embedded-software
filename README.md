@@ -182,6 +182,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [LRNDIS](https://github.com/fetisov/lrndis) - Ethernet over USB (rndis + lwip).
 * [CycloneTCP](https://github.com/Oryx-Embedded/CycloneTCP) - A dual IPv4/IPv6 stack dedicated to embedded applications. The stack is distributed as a full ANSI C and highly maintainable source code ([examples](https://www.oryx-embedded.com/download/CycloneTCP_SSL_SSH_CRYPTO_Open_2_2_4.zip) not included in GitHub's sources).
 * [StaticNet](https://github.com/azonenberg/staticnet) - C++ TCP/IP and SSH stack with all-static allocations designed for bare metal (no operating system) embedded applications with minimal footprint.
+* [LiveKit](https://github.com/livekit/client-sdk-esp32) - ESP32 SDK for LiveKit: real-time audio, video, and data streaming.
 
 ### Web Server
 
