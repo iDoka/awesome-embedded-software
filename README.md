@@ -281,6 +281,7 @@ Artificial Intelligence and Machine Learning
 * [caffepresso](https://github.com/gplhegde/caffepresso) - Optimized Library for Deep Learning on Embedded Accelerator-based platforms.
 * [libonnx](https://github.com/xboot/libonnx) - Lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
 * [TinyMaix](https://github.com/sipeed/TinyMaix) - A tiny inference Neural Network library specifically for microcontrollers (TinyML). Designed to follow the rule: Easy-to-Use > Portable > Speed > Space.
+* [edge-agents (ForestHub)](https://github.com/ForestHubAI/edge-agents) - Open-source (AGPL-3.0) 30 MB AI agent runtime for edge devices. Offline by default; GPIO/UART/MQTT as first-class nodes; local SLMs alongside cloud LLMs. Runs on Raspberry Pi, Jetson, STM32MP25.
 
 ### CV
 
