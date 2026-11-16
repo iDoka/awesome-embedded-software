@@ -235,6 +235,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
 * [panStamp-uSWAP](https://github.com/panStamp/uswap) - Micro SWAP stack for MCU's connected via UART.
 * [MIN](https://github.com/min-protocol/min) - Microcontroller Interconnect Network protocol version 2.0.
 * [libCoAP](https://github.com/obgm/libcoap) - C implementation of a lightweight application-protocol for devices that are constrained their resources such as computing power, RF range, memory, bandwidth, or network packet sizes. This protocol, CoAP, is standardized by the IETF as RFC 7252.
+* [Servomotor](https://github.com/tomrodinger/Servomotor_Arduino_Library) - Arduino/C++ library for integrated closed-loop servomotors (motor, driver, controller and encoder in one body) that share one RS-485 bus, on ESP32, SAMD, RP2040, STM32, Renesas and AVR.
 
 
 
