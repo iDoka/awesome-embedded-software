@@ -501,6 +501,7 @@ Computer Vision
 ### Sensors
 
 * [stm32-async-1wire](https://github.com/a5021/stm32-async-1wire) - Non-blocking, register-level 1-Wire master for STM32 (DS18B20 temperature driver on top). Hardware-timed (TIM1+DMA, DMAMUX on G0), interrupt-free, RTOS-agnostic; header-only backends for STM32F1/F0/G0; hardware-validated on Blue Pill (F103) and STM32G031; strong-pull-up parasite powering; released v1.6.1.
+* [ErdiLRF](https://github.com/ErdiTech/ErdiLRF) - Arduino/PlatformIO (C++) driver for ERDI 905 nm UART laser rangefinder modules, covering the `55 AA` command/response and `5C` free-running frame families.
 
 ## Others
 
