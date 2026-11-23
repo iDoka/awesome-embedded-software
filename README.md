@@ -487,6 +487,7 @@ Computer Vision
 * [tinyusb](https://github.com/hathach/tinyusb) - Cross-platform USB stack for embedded system.
 * [libusb_stm32](https://github.com/dmitrystu/libusb_stm32) - Lightweight USB device Stack for STM32 microcontrollers.
 * [CherryUSB](https://github.com/CherryUSB) - Tiny, beautiful and portable USB host and device stack for embedded system with USB.
+* [usb-rea](https://github.com/emirmrkaljevic/usb-rea) - Infers a vendor USB/HID protocol from USBPcap or usbmon captures and generates a pyusb driver and Wireshark dissector.
 
 ### Flash
 
