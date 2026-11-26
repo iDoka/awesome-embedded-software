@@ -365,7 +365,7 @@ Computer Vision
 * [µC/OS-III](https://github.com/weston-embedded/uC-OS3) - Preemptive, highly portable, and scalable real-time kernel. Designed for ease of use on a huge number of CPU architectures.
 * [QP/C](https://github.com/QuantumLeaps/qpc) - Real-time embedded framework/RTOS for embedded systems based on active objects (actors) and hierarchical state machines (FuSa, MISRA-C 2023 compliance).
 * [Quite Ok RTOS](https://github.com/arabine/qortos) - Tickless, minimal, 500 lines of code, 7 functions. 
-* * [caOS](https://github.com) - Bare-metal real-time operating system for STM32 microcontrollers (NUCLEO F4/F7/H5/H7/U5) including drivers, graphics, network stack, crypto, Renode simulation, and offline AI-assistant tools _(Free binary edition)_.
+* [caOS](https://github.com/caos-rtos/free-caos) - Bare-metal real-time operating system for STM32 microcontrollers (NUCLEO F4/F7/H5/H7/U5) including drivers, graphics, network stack, crypto, Renode simulation, and offline AI-assistant tools _(Free binary edition)_.
 
 
 
